@@ -1,0 +1,97 @@
+WITH HD_patients AS(
+  SELECT DISTINCT
+  icu.subject_id,
+  icu.hadm_id,
+  poe.order_type,
+  poe.ordertime
+  FROM `physionet-data.mimiciv_hosp.poe` as poe
+  JOIN `physionet-data.mimiciv_hosp.patients` AS patients
+  ON poe.subject_id = patients.subject_id
+  JOIN `physionet-data.mimiciv_icu.icustays` AS icu
+  ON poe.subject_id = icu.subject_id  AND poe.hadm_id = icu.hadm_id
+  JOIN `physionet-data.mimiciv_hosp.admissions` AS admis
+  ON admis.subject_id = poe.subject_id AND admis.hadm_id = poe.hadm_id
+  WHERE (patients.anchor_age + 
+     (EXTRACT(YEAR FROM admis.admittime) - patients.anchor_year)
+    )  >= 21 AND poe.order_type='Hemodialysis'
+),
+excluded_patients AS(
+  SELECT DISTINCT 
+  diag.subject_id,diag.hadm_id
+  FROM `physionet-data.mimiciv_hosp.diagnoses_icd` AS diag
+  WHERE diag.icd_code LIKE '5856%' OR diag.icd_code LIKE 'N186%'
+),
+latest_hemodialysis AS (
+    SELECT DISTINCT
+        poe.subject_id,
+        poe.hadm_id,
+        MAX(poe.ordertime) AS last_hd_time
+    FROM `physionet-data.mimiciv_hosp.poe` AS poe
+    WHERE poe.order_type = 'Hemodialysis'
+    GROUP BY poe.subject_id, poe.hadm_id
+),
+patients_died_84h AS (
+    SELECT DISTINCT 
+    last_hd.subject_id,
+    last_hd.hadm_id
+    FROM latest_hemodialysis AS last_hd
+    JOIN `physionet-data.mimiciv_hosp.admissions` AS admis
+    ON last_hd.subject_id = admis.subject_id AND last_hd.hadm_id = admis.hadm_id
+    WHERE admis.deathtime IS NOT NULL 
+          AND TIMESTAMP_DIFF(admis.deathtime, last_hd.last_hd_time, HOUR) <= 84
+),
+hd_with_previous_ordertime AS(
+  SELECT DISTINCT
+    hd.subject_id,
+    hd.hadm_id,
+    hd.order_type,
+    hd.ordertime,
+    LAG(hd.ordertime) OVER (PARTITION BY hd.subject_id ORDER BY hd.ordertime) as previous_order,
+  FROM HD_patients AS hd
+  LEFT JOIN excluded_patients as ep ON hd.subject_id = ep.subject_id --AND hd.hadm_id = ep.hadm_id
+  LEFT JOIN patients_died_84h as pd8 ON hd.subject_id = pd8.subject_id --AND hd.hadm_id = pd8.hadm_id
+  WHERE (ep.subject_id IS NULL) AND (pd8.subject_id IS NULL) AND hd.order_type = 'Hemodialysis' AND ep.hadm_id IS NULL AND pd8.hadm_id IS NULL
+  --GROUP BY hd.subject_id,hd.hadm_id
+),
+Total_patients AS(
+  SELECT DISTINCT
+    hd.subject_id,
+    hd.hadm_id,
+  FROM HD_patients AS hd
+  WHERE  hd.order_type = 'Hemodialysis'
+),
+hd_gap_ordertime AS(
+  SELECT DISTINCT
+    hd.subject_id,
+    --hd.hadm_id,
+    TIMESTAMP_DIFF(hd.ordertime, hd.previous_order, HOUR) AS hours_between_orders,
+    --hd.last_order
+  FROM hd_with_previous_ordertime as hd
+  GROUP BY hd.subject_id,hours_between_orders--,hd.hadm_id
+),
+max_gap_patients AS(
+  SELECT DISTINCT
+    hgp.subject_id,
+    --hgp.hadm_id,
+    MAX(hgp.hours_between_orders) AS max_gap,
+    MAX(hpo.ordertime) AS last_order
+  FROM hd_gap_ordertime AS hgp
+  INNER JOIN hd_with_previous_ordertime AS hpo ON hpo.subject_id = hgp.subject_id --AND hpo.hadm_id = hgp.hadm_id
+  GROUP BY hgp.subject_id--,hgp.hadm_id
+),
+counts AS (
+  SELECT 
+    (SELECT COUNT(DISTINCT subject_id) FROM Total_patients) AS total,
+    (SELECT COUNT(DISTINCT subject_id) FROM max_gap_patients) as included_patients,
+    COUNT(DISTINCT mgp.subject_id) AS dis_group
+  FROM max_gap_patients AS mgp
+  INNER JOIN `physionet-data.mimiciv_hosp.admissions` AS admis
+      ON admis.subject_id = mgp.subject_id
+  WHERE max_gap>84 OR max_gap IS NULL OR TIMESTAMP_DIFF(admis.dischtime ,mgp.last_order,HOUR) > 84
+)
+SELECT 
+  total,
+  included_patients,
+  dis_group,
+  (included_patients - dis_group) AS reinitiation_group
+FROM counts

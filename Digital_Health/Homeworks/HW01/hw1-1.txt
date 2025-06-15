@@ -1,0 +1,53 @@
+WITH 
+patients_PE AS(
+  SELECT DISTINCT
+    diag.subject_id,
+    diag.hadm_id
+  FROM `physionet-data.mimiciv_hosp.diagnoses_icd` AS diag
+  WHERE diag.icd_code LIKE '4151%' OR diag.icd_code LIKE 'I26%'
+),
+patients_PE_icu AS(
+  SELECT DISTINCT
+    icu.subject_id,
+    icu.hadm_id
+  FROM `physionet-data.mimiciv_icu.icustays` AS icu
+  INNER JOIN patients_PE AS pe ON pe.subject_id = icu.subject_id AND pe.hadm_id = icu.hadm_id
+),
+patients_G21 AS(
+  SELECT DISTINCT
+    patients.subject_id,
+    peicu.hadm_id
+  FROM `physionet-data.mimiciv_hosp.patients` AS patients
+  INNER JOIN patients_PE_icu AS peicu ON peicu.subject_id = patients.subject_id
+  INNER JOIN `physionet-data.mimiciv_hosp.admissions` AS admis ON admis.subject_id=peicu.subject_id 
+  WHERE (patients.anchor_age + 
+     (EXTRACT(YEAR FROM admis.admittime) - patients.anchor_year)
+    ) >= 21
+),
+patients_info_hosp AS(
+  SELECT DISTINCT
+    admis.subject_id,
+    p.hadm_id,
+    MAX(admis.hospital_expire_flag) AS died_in_hospital 
+  FROM `physionet-data.mimiciv_hosp.admissions` AS admis
+  INNER JOIN patients_G21 AS p ON p.subject_id = admis.subject_id AND p.hadm_id = admis.hadm_id
+  GROUP BY admis.subject_id, p.hadm_id
+  ORDER BY admis.subject_id ASC
+),
+p_die_hosp AS(
+  SELECT
+    COUNT(*) AS die_hosp
+  FROM patients_info_hosp AS pih
+  WHERE pih.died_in_hospital = 1
+),
+p_alive_hosp AS(
+  SELECT
+    COUNT(*) AS alive_hosp
+  FROM patients_info_hosp AS pih
+  WHERE pih.died_in_hospital = 0
+)
+SELECT
+  (SELECT COUNT(*) FROM patients_info_hosp) AS total_patients,
+  (SELECT die_hosp FROM p_die_hosp) AS die_patients,
+  (SELECT alive_hosp FROM p_alive_hosp) AS alive_patients
+
