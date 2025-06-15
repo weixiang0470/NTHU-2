@@ -1,0 +1,31 @@
+ncverilog(64): 15.20-s084: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	ncverilog	15.20-s084: Started on Apr 28, 2025 at 23:44:16 CST
+ncverilog
+	-sv
+	+access+r
+	+define+FSDB
+	./addroundkey.v
+	./aes_128.v
+	./AES_top.v
+	./expand_key_128.v
+	./mixcolumns.v
+	./round.v
+	./shiftrows.v
+	./subbytes.v
+	./table.v
+	C1_tb.v
+Loading snapshot worklib.AES_top_tb_1:v .................... Done
+ncsim: *W,DSEM2009: This SystemVerilog design is simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+*Verdi* Loading libsscore_ius152.so
+ncsim> source /usr/cad/cadence/INCISIV/INCISIVE_15.20.084/tools/inca/files/ncsimrc
+ncsim> run
+rst=1, key=c0de, out=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+rst=0, key=c0de, out=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+rst=0, key=c0de, out=f5faab4f8f660658658dbaa45146e768
+
+Simulation complete via $finish(1) at time 4020 NS + 0
+./C1_tb.v:47         $finish;
+ncsim> exit
+TOOL:	ncverilog	15.20-s084: Exiting on Apr 28, 2025 at 23:44:17 CST  (total: 00:00:01)

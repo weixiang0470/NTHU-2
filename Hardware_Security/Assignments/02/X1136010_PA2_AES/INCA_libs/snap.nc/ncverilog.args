@@ -1,0 +1,17 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-sv
++access+r
++define+FSDB
+./addroundkey.v
+./aes_128.v
+./AES_top.v
+./expand_key_128.v
+./mixcolumns.v
+./round.v
+./shiftrows.v
+./subbytes.v
+./table.v
+C1_tb.v

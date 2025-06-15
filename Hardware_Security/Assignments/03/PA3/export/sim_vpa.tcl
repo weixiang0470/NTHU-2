@@ -1,0 +1,1 @@
+vpa::start_simulation Debug/sim {/home/HardwareSecurity_1132/tsx1136010/HW03/PA3/export} {--cwr_wait --cwr_properties_xml Properties.xml} 120

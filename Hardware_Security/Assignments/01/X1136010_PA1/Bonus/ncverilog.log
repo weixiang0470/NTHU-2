@@ -1,0 +1,138 @@
+ncverilog(64): 15.20-s084: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	ncverilog	15.20-s084: Started on Mar 29, 2025 at 17:13:38 CST
+ncverilog
+	-sv
+	+access+r
+	+define+FSDB
+	./Buffer.v
+	./Counter.v
+	./MUX_16to1.v
+	./Race_Arbiter.v
+	./Scrambler.v
+	./Top.v
+	./RO.v
+	my_UQ_tb.v
+file: ./Buffer.v
+	module worklib.Buffer:v
+		errors: 0, warnings: 0
+file: ./Counter.v
+	module worklib.Counter:v
+		errors: 0, warnings: 0
+file: ./MUX_16to1.v
+	module worklib.MUX_16to1:v
+		errors: 0, warnings: 0
+file: ./Race_Arbiter.v
+	module worklib.Race_Arbiter:v
+		errors: 0, warnings: 0
+file: ./Scrambler.v
+	module worklib.Scrambler:v
+		errors: 0, warnings: 0
+file: ./Top.v
+	module worklib.Top:v
+		errors: 0, warnings: 0
+file: ./RO.v
+	module worklib.FRO:v
+		errors: 0, warnings: 0
+file: my_UQ_tb.v
+	module worklib.UQ_tb:v
+		errors: 0, warnings: 0
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+ncelab: *W,DSEMEL: This SystemVerilog design will be simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.Buffer:v <0x51800d4f>
+			streams:   6, words:  2058
+		worklib.Counter:v <0x72771187>
+			streams:   3, words:   919
+		worklib.FRO:v <0x311f9794>
+			streams:   1, words:   297
+		worklib.MUX_16to1:v <0x64c5060c>
+			streams:   1, words:   229
+		worklib.Race_Arbiter:v <0x73fe6929>
+			streams:   2, words:   844
+		worklib.Scrambler:v <0x015e0b6b>
+			streams:   3, words:   881
+		worklib.Top:v <0x3f946523>
+			streams:   2, words:   249
+		worklib.UQ_tb:v <0x33a9f8e4>
+			streams:  18, words: 34611
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                  Instances  Unique
+		Modules:                241       8
+		Primitives:            1760       2
+		Registers:              272      21
+		Scalar wires:           280       -
+		Expanded wires:          80      10
+		Vectored wires:          40       -
+		Always blocks:          212      16
+		Initial blocks:           2       2
+		Cont. assignments:       50       4
+		Pseudo assignments:      23       5
+		Simulation timescale:   1ps
+	Writing initial simulation snapshot: worklib.UQ_tb:v
+Loading snapshot worklib.UQ_tb:v .................... Done
+ncsim: *W,DSEM2009: This SystemVerilog design is simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+*Verdi* Loading libsscore_ius152.so
+ncsim> source /usr/cad/cadence/INCISIV/INCISIVE_15.20.084/tools/inca/files/ncsimrc
+ncsim> run
+FSDB Dumper for IUS, Release Verdi_P-2019.06, Linux x86_64/64bit, 05/26/2019
+(C) 1996 - 2019 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'UQ_tb.fsdb'
+*Verdi* : Begin traversing the scope (UQ_tb), layer (0).
+*Verdi* : End of traversing.
+First challenge
+CHIP 0 : at time              1155000, chall_in = 01, response = 4b, ready = 1
+CHIP 1 : at time              1155000, chall_in = 01, response = 66, ready = 1
+CHIP 2 : at time              1155000, chall_in = 01, response = 6c, ready = 1
+CHIP 3 : at time              1155000, chall_in = 01, response = 53, ready = 1
+CHIP 4 : at time              1155000, chall_in = 01, response = 01, ready = 1
+CHIP 5 : at time              1155000, chall_in = 01, response = 2e, ready = 1
+CHIP 6 : at time              1155000, chall_in = 01, response = 4c, ready = 1
+CHIP 7 : at time              1155000, chall_in = 01, response = 74, ready = 1
+CHIP 8 : at time              1155000, chall_in = 01, response = 13, ready = 1
+CHIP 9 : at time              1155000, chall_in = 01, response = 57, ready = 1
+UQ = 0.46
+Second challenge
+CHIP 0 : at time              3205000, chall_in = c1, response = 4e, ready = 1
+CHIP 1 : at time              3205000, chall_in = c1, response = 77, ready = 1
+CHIP 2 : at time              3205000, chall_in = c1, response = 13, ready = 1
+CHIP 3 : at time              3205000, chall_in = c1, response = 3c, ready = 1
+CHIP 4 : at time              3205000, chall_in = c1, response = 06, ready = 1
+CHIP 5 : at time              3205000, chall_in = c1, response = 62, ready = 1
+CHIP 6 : at time              3205000, chall_in = c1, response = 25, ready = 1
+CHIP 7 : at time              3205000, chall_in = c1, response = 2d, ready = 1
+CHIP 8 : at time              3205000, chall_in = c1, response = 12, ready = 1
+CHIP 9 : at time              3205000, chall_in = c1, response = 76, ready = 1
+UQ = 0.44
+Third challenge
+CHIP 0 : at time              5165000, chall_in = 2c, response = 7f, ready = 1
+CHIP 1 : at time              5165000, chall_in = 2c, response = 38, ready = 1
+CHIP 2 : at time              5165000, chall_in = 2c, response = 40, ready = 1
+CHIP 3 : at time              5165000, chall_in = 2c, response = 1a, ready = 1
+CHIP 4 : at time              5165000, chall_in = 2c, response = 02, ready = 1
+CHIP 5 : at time              5165000, chall_in = 2c, response = 4c, ready = 1
+CHIP 6 : at time              5165000, chall_in = 2c, response = 69, ready = 1
+CHIP 7 : at time              5165000, chall_in = 2c, response = 48, ready = 1
+CHIP 8 : at time              5165000, chall_in = 2c, response = 76, ready = 1
+CHIP 9 : at time              5165000, chall_in = 2c, response = 4f, ready = 1
+UQ = 0.44
+Fourth challenge
+CHIP 0 : at time              7215000, chall_in = 01, response = 4b, ready = 1
+CHIP 1 : at time              7215000, chall_in = 01, response = 66, ready = 1
+CHIP 2 : at time              7215000, chall_in = 01, response = 6c, ready = 1
+CHIP 3 : at time              7215000, chall_in = 01, response = 53, ready = 1
+CHIP 4 : at time              7215000, chall_in = 01, response = 01, ready = 1
+CHIP 5 : at time              7215000, chall_in = 01, response = 2e, ready = 1
+CHIP 6 : at time              7215000, chall_in = 01, response = 4c, ready = 1
+CHIP 7 : at time              7215000, chall_in = 01, response = 74, ready = 1
+CHIP 8 : at time              7215000, chall_in = 01, response = 13, ready = 1
+CHIP 9 : at time              7215000, chall_in = 01, response = 57, ready = 1
+UQ = 0.46
+Simulation complete via $finish(1) at time 8080 NS + 0
+./my_UQ_tb.v:462         $finish;
+ncsim> exit
+TOOL:	ncverilog	15.20-s084: Exiting on Mar 29, 2025 at 17:13:40 CST  (total: 00:00:02)

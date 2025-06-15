@@ -1,0 +1,30 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-XLMODE
+./INCA_libs/irun.lnx8664.15.20.nc
+-RUNMODE
+-sv
+-DEFINE
+FSDB
+./addroundkey.v
+./aes_128.v
+./AES_HT_top.v
+./expand_key_128.v
+./mixcolumns.v
+./reverse.v
+./round.v
+./shiftrows.v
+./subbytes.v
+./table.v
+C1_tb.v
+-CDSLIB
+./INCA_libs/irun.lnx8664.15.20.nc/cdsrun.lib
+-HDLVAR
+./INCA_libs/irun.lnx8664.15.20.nc/hdlrun.var
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./INCA_libs/irun.lnx8664.15.20.nc/xllibs
+-ALLOWUNBOUND

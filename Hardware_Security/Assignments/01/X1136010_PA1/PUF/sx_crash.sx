@@ -1,0 +1,41 @@
+### Custom WaveView session file (version R-2020.12 build Nov 24, ) ###
+### saved at 15:52:18 on Sat Mar 29 2025 ###
+scalar list
+browserOpened
+
+#DesignSection
+<?xml version="1.0"?>
+<ROOT>
+  <info>
+    <version>Version R-2020.12</version>
+  </info>
+  <setup_common_data>
+    <project_name>cx_simulation</project_name>
+    <cx_startup_dir>/home/HardwareSecurity_1132/tsx1136010/HW01/PUF</cx_startup_dir>
+    <project_dir>/home/HardwareSecurity_1132/tsx1136010/HW01/PUF/cx_simulation</project_dir>
+    <setup_simulator>0:1 0:4 0:7 0:3 5:4 5:7</setup_simulator>
+  </setup_common_data>
+  <setup_lsf_opt/>
+  <setup_design>
+    <design>cx_design</design>
+  </setup_design>
+  <cx_design.dsn_wv_link/>
+  <cx_design.design_common_data>
+    <digital_simulator>5</digital_simulator>
+    <analog_simulator>4</analog_simulator>
+    <design_work_dir/>
+    <design_sim_runfile/>
+  </cx_design.design_common_data>
+  <cx_design.design_lib>
+    <library>CX_WORK:Verilog</library>
+    <CX_WORK_colon_Verilog>0:4:my_tb.v</CX_WORK_colon_Verilog>
+  </cx_design.design_lib>
+  <cx_design.design_arch>
+    <arch>default_ppww_my__tb</arch>
+  </cx_design.design_arch>
+  <cx_design.default_ppww_my__tb.arch_config>
+    <ad_ana_config>"designtop CX_WORK:Verilog.my__tb; ucfg_rule_end; "</ad_ana_config>
+  </cx_design.default_ppww_my__tb.arch_config>
+  <cx_design.design_anls/>
+  <multiple_views/>
+</ROOT>

@@ -1,0 +1,27 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-XLMODE
+./INCA_libs/irun.lnx8664.15.20.nc
+-RUNMODE
+-sv
+-DEFINE
+FSDB
+./Buffer.v
+./Counter.v
+./FRO.v
+./MUX_16to1.v
+./Race_Arbiter.v
+./Scrambler.v
+./Top.v
+my_UQ_tb.v
+-CDSLIB
+./INCA_libs/irun.lnx8664.15.20.nc/cdsrun.lib
+-HDLVAR
+./INCA_libs/irun.lnx8664.15.20.nc/hdlrun.var
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./INCA_libs/irun.lnx8664.15.20.nc/xllibs
+-ALLOWUNBOUND

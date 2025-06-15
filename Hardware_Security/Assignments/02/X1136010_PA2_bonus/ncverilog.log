@@ -1,0 +1,158 @@
+ncverilog(64): 15.20-s084: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	ncverilog	15.20-s084: Started on Apr 28, 2025 at 23:58:51 CST
+ncverilog
+	-sv
+	+access+r
+	+define+FSDB
+	./addroundkey.v
+	./aes_128.v
+	./AES_top.v
+	./expand_key_128.v
+	./mixcolumns.v
+	./reverse.v
+	./round.v
+	./shiftrows.v
+	./subbytes.v
+	./table.v
+	C1_tb.v
+file: ./addroundkey.v
+	module worklib.AddRoundKey:v
+		errors: 0, warnings: 0
+file: ./aes_128.v
+	module worklib.aes_128:v
+		errors: 0, warnings: 0
+file: ./AES_top.v
+	module worklib.AES_top:v
+		errors: 0, warnings: 0
+file: ./expand_key_128.v
+	module worklib.expand_key_128:v
+		errors: 0, warnings: 0
+file: ./mixcolumns.v
+	module worklib.MixColumns:v
+		errors: 0, warnings: 0
+file: ./reverse.v
+	module worklib.Reverse:v
+		errors: 0, warnings: 0
+file: ./round.v
+	module worklib.one_round:v
+		errors: 0, warnings: 0
+	module worklib.final_round:v
+		errors: 0, warnings: 0
+file: ./shiftrows.v
+	module worklib.ShiftRows:v
+		errors: 0, warnings: 0
+file: ./subbytes.v
+	module worklib.SubBytes:v
+		errors: 0, warnings: 0
+file: ./table.v
+	module worklib.table_lookup:v
+		errors: 0, warnings: 0
+	module worklib.S4:v
+		errors: 0, warnings: 0
+	module worklib.T:v
+		errors: 0, warnings: 0
+	module worklib.S:v
+		errors: 0, warnings: 0
+	module worklib.xS:v
+		errors: 0, warnings: 0
+file: C1_tb.v
+	module worklib.AES_top_tb_1:v
+		errors: 0, warnings: 0
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+ncelab: *W,DSEMEL: This SystemVerilog design will be simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.AES_top:v <0x10af1a3d>
+			streams:   2, words:   647
+		worklib.AES_top_tb_1:v <0x0b12b991>
+			streams:   4, words:  9442
+		worklib.AddRoundKey:v <0x0c74064c>
+			streams:   1, words:   413
+		worklib.AddRoundKey:v <0x3f4cb1f9>
+			streams:   1, words:   291
+		worklib.MixColumns:v <0x6fca612e>
+			streams:  10, words:  4874
+		worklib.Reverse:v <0x7e6e5de1>
+			streams:   1, words:   293
+		worklib.S:v <0x3e3ef556>
+			streams:   2, words: 29947
+		worklib.S:v <0x712e3961>
+			streams:   2, words: 30003
+		worklib.ShiftRows:v <0x5e1ff68e>
+			streams:  17, words:  4638
+		worklib.T:v <0x1da12875>
+			streams:   2, words:   694
+		worklib.aes_128:v <0x4df72f7c>
+			streams:  27, words:  9499
+		worklib.expand_key_128:v <0x242ab6db>
+			streams:  14, words:  4299
+		worklib.expand_key_128:v <0x3dcfbe72>
+			streams:  14, words:  4164
+		worklib.final_round:v <0x1b5d2754>
+			streams:   1, words:   522
+		worklib.one_round:v <0x4a7bed55>
+			streams:   1, words:   522
+		worklib.one_round:v <0x51b565a5>
+			streams:   1, words:   577
+		worklib.table_lookup:v <0x24272e5b>
+			streams:   1, words:   592
+		worklib.xS:v <0x3b30b967>
+			streams:   2, words: 29947
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                  Instances  Unique
+		Modules:                583      16
+		Registers:              417      22
+		Scalar wires:             2       -
+		Expanded wires:        5632     644
+		Vectored wires:         560       -
+		Always blocks:          370      10
+		Initial blocks:           9       9
+		Cont. assignments:      507      54
+		Pseudo assignments:      56      17
+		Simulation timescale:   1ps
+	Writing initial simulation snapshot: worklib.AES_top_tb_1:v
+Loading snapshot worklib.AES_top_tb_1:v .................... Done
+ncsim: *W,DSEM2009: This SystemVerilog design is simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+*Verdi* Loading libsscore_ius152.so
+ncsim> source /usr/cad/cadence/INCISIV/INCISIVE_15.20.084/tools/inca/files/ncsimrc
+ncsim> run
+ctr=3, ciphertext=6e26dac907046e4454adfda2cf7c12e4
+trigger=0, my_out=83ed734e53364d01009fcff673a2d909
+
+ctr=3, ciphertext=6e26dac907046e4454adfda2cf7c12e4
+trigger=1, my_out=83ed734e53364d01009fcff673a2d909
+
+ctr=3, ciphertext=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+trigger=1, my_out=83ed734e53364d01009fcff673a2d909
+
+ctr=3, ciphertext=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+trigger=1, my_out=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ctr=3, ciphertext=fcda8ba56701670101675432cba90b33
+trigger=1, my_out=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ctr=3, ciphertext=fcda8ba56701670101675432cba90b33
+trigger=1, my_out=1111222233334444555566667777c0de
+
+ctr=3, ciphertext=6e26dac907046e4454adfda2cf7c12e4
+trigger=0, my_out=83ed734e53364d01009fcff673a2d909
+
+ctr=3, ciphertext=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+trigger=0, my_out=83ed734e53364d01009fcff673a2d909
+
+ctr=3, ciphertext=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+trigger=0, my_out=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ctr=3, ciphertext=6f54f740b3f50eaa3c9490442cdef8b2
+trigger=0, my_out=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ctr=3, ciphertext=6f54f740b3f50eaa3c9490442cdef8b2
+trigger=0, my_out=829f5ec7e7c72def68a6a2109000335f
+
+Simulation complete via $finish(1) at time 17745 NS + 0
+./C1_tb.v:100         $finish;
+ncsim> exit
+TOOL:	ncverilog	15.20-s084: Exiting on Apr 28, 2025 at 23:58:52 CST  (total: 00:00:01)
