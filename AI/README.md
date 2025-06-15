@@ -1,0 +1,3 @@
+- 教授 : 丁川康
+- 課程代碼 : 11320CS460100
+- 課程名稱 : 人工智慧概論Introduction to Artificial Intelligence
