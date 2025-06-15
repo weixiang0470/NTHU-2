@@ -1,0 +1,11 @@
+Input valid, time limit = 10000
+Input valid, maxG = 2000
+Number of threads used: 64
+ After = 323878 pass : 1 G=592974
+ After = 282371 pass : 2 G=34537
+ After = 261269 pass : 3 G=19848
+ After = 257721 pass : 4 G=2900
+ After = 251798 pass : 5 G=5218
+ After = 248267 pass : 6 G=3369
+
+Total time used = 834 Cut size = 248267

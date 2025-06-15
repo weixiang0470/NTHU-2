@@ -1,0 +1,11 @@
+Input valid, time limit = 1000
+Input valid, maxG = 100
+ After = 44165 pass : 1 G=58043
+ After = 42082 pass : 2 G=2043
+ After = 41319 pass : 3 G=761
+ After = 41058 pass : 4 G=258
+ After = 40925 pass : 5 G=132
+ After = 40466 pass : 6 G=458
+ After = 40315 pass : 7 G=150
+
+Total time used = 128 Cut size = 40315

@@ -1,0 +1,72 @@
+CC = g++
+CFLAGS = -Wall -w -std=c++17 -Ofast -fopenmp
+BIN_DIR = ../bin
+SOURCES = hw3.cpp 
+EXECUTABLE = $(SOURCES:%.cpp=$(BIN_DIR)/%)
+
+#THREADS ?= 8
+
+all: $(EXECUTABLE)
+
+$(BIN_DIR)/%: %.cpp
+	$(CC) $(CFLAGS) -o $@ $<
+
+clean:
+	rm -rf $(EXECUTABLE)
+
+
+
+struct HardBlock{
+    string name;
+    int ori_w,ori_h;
+    int r=0;
+    int x,y;
+    int W(){if(r)return ori_h;return ori_w;}
+    int H(){if(r)return ori_w;return ori_h;}
+};
+
+struct Pad {
+    string name;
+    int x, y;
+};
+
+struct Net {
+    string name;                 
+    vector<string> pins;        
+};
+
+int calculateHPWL(const Net& net) {
+    int min_x = INT_MAX, max_x = INT_MIN;
+    int min_y = INT_MAX, max_y = INT_MIN;
+
+    // 筂? net い┮Τ pinsт程㎝程 x, y
+    for (const auto& pinName : net.pins) {
+        if (hardBlocks.find(pinName) != hardBlocks.end()) {
+            // ま?? HardBlock?祑?いみГ?
+            HardBlock& block = hardBlocks[pinName];
+            int center_x = round((block.x + block.W()) / 2);
+            int center_y = round((block.y + block.H()) / 2);
+            
+            // 穝程㎝程 x, y
+            min_x = min(min_x, center_x);
+            max_x = max(max_x, center_x);
+            min_y = min(min_y, center_y);
+            max_y = max(max_y, center_y);
+        } else if (pads.find(pinName) != pads.end()) {
+            // ま?? Pad? Pad Г?
+            const Pad& pad = pads[pinName];
+            int center_x = pad.x;
+            int center_y = pad.y;
+            
+            // 穝程㎝程 x, y
+            min_x = min(min_x, center_x);
+            max_x = max(max_x, center_x);
+            min_y = min(min_y, center_y);
+            max_y = max(max_y, center_y);
+        }
+    }
+
+    // ?衡㏄? HPWL
+    int hpwl = (max_x - min_x + max_y - min_y);
+    return hpwl;
+}

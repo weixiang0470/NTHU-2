@@ -1,0 +1,1489 @@
+Invalid b
+Default b = 173
+Out file = ../output/public1.out
+Initial cost = 274065 Penalty = 0.00% area = 70.48% wirelength =100.00%
+The total HPWL = 274065
+Total time used = 0s
+M3 Accept: cost = 274065.00 penalty = 0.00% area = 70.48% wirelength = 100.00%
+Best update !!! M1 cost=273955 penalty = 0.00 area = 70.51% wirelength = 100.00%
+Best update !!! M1 cost=273800 penalty = 0.00 area = 70.55% wirelength = 100.00%
+Best update !!! M1 cost=273758 penalty = 0.00 area = 70.56% wirelength = 100.00%
+Best update !!! M1 cost=273387 penalty = 0.00 area = 70.65% wirelength = 100.00%
+Best update !!! M1 cost=273361 penalty = 0.00 area = 70.66% wirelength = 100.00%
+Best update !!! M1 cost=273277 penalty = 0.00 area = 70.68% wirelength = 100.00%
+Best update !!! M1 cost=272005 penalty = 0.00 area = 71.01% wirelength = 100.00%
+Best update !!! M1 cost=271965 penalty = 0.00 area = 71.02% wirelength = 100.00%
+Best update !!! M1 cost=271653 penalty = 0.00 area = 71.10% wirelength = 100.00%
+Best update !!! M1 cost=271608 penalty = 0.00 area = 71.12% wirelength = 100.00%
+Best update !!! M1 cost=271359 penalty = 0.00 area = 71.02% wirelength = 100.00%
+Best update !!! M1 cost=271272 penalty = 0.00 area = 71.04% wirelength = 100.00%
+Best update !!! M1 cost=271011 penalty = 0.00 area = 71.11% wirelength = 100.00%
+Best update !!! M1 cost=271009 penalty = 0.00 area = 71.11% wirelength = 100.00%
+Best update !!! M1 cost=270867 penalty = 0.00 area = 70.99% wirelength = 100.00%
+Best update !!! M1 cost=270838 penalty = 0.00 area = 71.00% wirelength = 100.00%
+M3 Accept: cost = 273290.00 penalty = 0.00% area = 70.84% wirelength = 100.00%
+M3 Accept: cost = 279105.00 penalty = 0.00% area = 69.68% wirelength = 100.00%
+M3 Accept: cost = 281017.00 penalty = 0.00% area = 68.89% wirelength = 100.00%
+M1 Accept: cost = 280142.00 penalty = 0.00% area = 69.58% wirelength = 100.00%
+Best update !!! M1 cost=270836 penalty = 0.00 area = 71.80% wirelength = 100.00%
+Best update !!! M1 cost=270388 penalty = 0.00 area = 71.76% wirelength = 100.00%
+Best update !!! M1 cost=270316 penalty = 0.00 area = 71.46% wirelength = 100.00%
+Best update !!! M1 cost=270065 penalty = 0.00 area = 71.52% wirelength = 100.00%
+Best update !!! M1 cost=269819 penalty = 0.00 area = 71.59% wirelength = 100.00%
+M1 Accept: cost = 274134.00 penalty = 0.00% area = 71.75% wirelength = 100.00%
+Best update !!! M1 cost=269534 penalty = 0.00 area = 72.48% wirelength = 100.00%
+Best update !!! M1 cost=269499 penalty = 0.00 area = 72.49% wirelength = 100.00%
+Best update !!! M1 cost=269287 penalty = 0.00 area = 72.55% wirelength = 100.00%
+Best update !!! M1 cost=269207 penalty = 0.00 area = 72.57% wirelength = 100.00%
+Best update !!! M1 cost=269143 penalty = 0.00 area = 72.59% wirelength = 100.00%
+Best update !!! M1 cost=268915 penalty = 0.00 area = 72.65% wirelength = 100.00%
+Best update !!! M1 cost=268891 penalty = 0.00 area = 72.65% wirelength = 100.00%
+Best update !!! M1 cost=268840 penalty = 0.00 area = 72.67% wirelength = 100.00%
+Best update !!! M1 cost=268154 penalty = 0.00 area = 72.85% wirelength = 100.00%
+Best update !!! M1 cost=268086 penalty = 0.00 area = 73.37% wirelength = 100.00%
+Best update !!! M1 cost=267955 penalty = 0.00 area = 73.40% wirelength = 100.00%
+Best update !!! M1 cost=267945 penalty = 0.00 area = 73.41% wirelength = 100.00%
+Best update !!! M2 cost=267651 penalty = 0.00 area = 73.49% wirelength = 100.00%
+Best update !!! M1 cost=267424 penalty = 0.00 area = 73.55% wirelength = 100.00%
+Best update !!! M1 cost=267382 penalty = 0.00 area = 73.56% wirelength = 100.00%
+Best update !!! M1 cost=267275 penalty = 0.00 area = 73.59% wirelength = 100.00%
+Best update !!! M1 cost=267023 penalty = 0.00 area = 73.66% wirelength = 100.00%
+Best update !!! M1 cost=266901 penalty = 0.00 area = 73.69% wirelength = 100.00%
+Best update !!! M1 cost=266896 penalty = 0.00 area = 73.70% wirelength = 100.00%
+Best update !!! M1 cost=266722 penalty = 0.00 area = 73.74% wirelength = 100.00%
+Best update !!! M1 cost=266715 penalty = 0.00 area = 73.75% wirelength = 100.00%
+Best update !!! M1 cost=266687 penalty = 0.00 area = 73.75% wirelength = 100.00%
+Best update !!! M1 cost=266495 penalty = 0.00 area = 73.81% wirelength = 100.00%
+M1 Accept: cost = 270939.00 penalty = 0.00% area = 72.43% wirelength = 100.00%
+M3 Accept: cost = 272871.00 penalty = 0.00% area = 71.92% wirelength = 100.00%
+M3 Accept: cost = 274699.00 penalty = 0.00% area = 70.47% wirelength = 100.00%
+M1 Accept: cost = 276461.00 penalty = 0.00% area = 70.34% wirelength = 100.00%
+T = 1920.00 exp(-delta_cost/T) = 1.14 delta = -259.00
+M1 Accept: cost = 275040.00 penalty = 0.00% area = 70.87% wirelength = 100.00%
+M3 Accept: cost = 276600.00 penalty = 0.00% area = 70.47% wirelength = 100.00%
+M1 Accept: cost = 276151.00 penalty = 0.00% area = 70.58% wirelength = 100.00%
+M1 Accept: cost = 277809.00 penalty = 0.00% area = 70.32% wirelength = 100.00%
+M3 Accept: cost = 277041.00 penalty = 0.00% area = 70.52% wirelength = 100.00%
+Best update !!! M2 cost=266482 penalty = 0.00 area = 73.81% wirelength = 100.00%
+Best update !!! M2 cost=266258 penalty = 0.00 area = 73.87% wirelength = 100.00%
+Best update !!! M1 cost=265829 penalty = 0.00 area = 73.99% wirelength = 100.00%
+Best update !!! M1 cost=265800 penalty = 0.00 area = 74.00% wirelength = 100.00%
+Best update !!! M1 cost=265488 penalty = 0.00 area = 73.42% wirelength = 100.00%
+Best update !!! M1 cost=264942 penalty = 0.00 area = 73.57% wirelength = 100.00%
+Best update !!! M1 cost=264868 penalty = 0.00 area = 74.09% wirelength = 100.00%
+Best update !!! M1 cost=264272 penalty = 0.00 area = 74.26% wirelength = 100.00%
+Best update !!! M1 cost=264260 penalty = 0.00 area = 74.26% wirelength = 100.00%
+M3 Accept: cost = 266411.00 penalty = 0.00% area = 73.16% wirelength = 100.00%
+M3 Accept: cost = 275506.00 penalty = 0.00% area = 70.75% wirelength = 100.00%
+M1 Accept: cost = 278958.00 penalty = 0.00% area = 70.35% wirelength = 100.00%
+T0 = 173.02 exp(-delta_cost/T) = 0.00 delta = 230961935967.00
+T = 173.02 exp(-delta_cost/T) = 0.00 delta = 230961935967.00
+Best update !!! M1 cost=263894 penalty = 0.00 area = 74.03% wirelength = 100.00%
+Best update !!! M1 cost=263434 penalty = 0.00 area = 74.16% wirelength = 100.00%
+Best update !!! M1 cost=263373 penalty = 0.00 area = 74.18% wirelength = 100.00%
+Best update !!! M1 cost=263245 penalty = 0.00 area = 74.21% wirelength = 100.00%
+Best update !!! M1 cost=263219 penalty = 0.00 area = 74.22% wirelength = 100.00%
+Best update !!! M1 cost=263149 penalty = 0.00 area = 74.24% wirelength = 100.00%
+Best update !!! M1 cost=263061 penalty = 0.00 area = 74.27% wirelength = 100.00%
+Best update !!! M1 cost=262977 penalty = 0.00 area = 74.29% wirelength = 100.00%
+Best update !!! M1 cost=262958 penalty = 0.00 area = 74.29% wirelength = 100.00%
+Best update !!! M1 cost=262884 penalty = 0.00 area = 74.48% wirelength = 100.00%
+Best update !!! M1 cost=262719 penalty = 0.00 area = 74.53% wirelength = 100.00%
+Best update !!! M1 cost=262712 penalty = 0.00 area = 74.53% wirelength = 100.00%
+Best update !!! M1 cost=262516 penalty = 0.00 area = 74.59% wirelength = 100.00%
+Best update !!! M2 cost=262354 penalty = 0.00 area = 74.63% wirelength = 100.00%
+Best update !!! M1 cost=262334 penalty = 0.00 area = 74.64% wirelength = 100.00%
+Best update !!! M2 cost=262241 penalty = 0.00 area = 74.67% wirelength = 100.00%
+Best update !!! M1 cost=261608 penalty = 0.00 area = 74.85% wirelength = 100.00%
+Best update !!! M1 cost=261426 penalty = 0.00 area = 74.90% wirelength = 100.00%
+Best update !!! M1 cost=261388 penalty = 0.00 area = 74.91% wirelength = 100.00%
+Best update !!! M1 cost=261359 penalty = 0.00 area = 74.92% wirelength = 100.00%
+Best update !!! M1 cost=261048 penalty = 0.00 area = 75.01% wirelength = 100.00%
+Best update !!! M1 cost=261039 penalty = 0.00 area = 75.01% wirelength = 100.00%
+Best update !!! M1 cost=260917 penalty = 0.00 area = 75.04% wirelength = 100.00%
+Best update !!! M1 cost=260637 penalty = 0.00 area = 75.13% wirelength = 100.00%
+Best update !!! M1 cost=260590 penalty = 0.00 area = 75.14% wirelength = 100.00%
+Best update !!! M1 cost=260406 penalty = 0.00 area = 75.19% wirelength = 100.00%
+Best update !!! M1 cost=260079 penalty = 0.00 area = 75.29% wirelength = 100.00%
+Best update !!! M1 cost=259786 penalty = 0.00 area = 75.37% wirelength = 100.00%
+Best update !!! M1 cost=259695 penalty = 0.00 area = 75.40% wirelength = 100.00%
+Best update !!! M1 cost=259568 penalty = 0.00 area = 75.43% wirelength = 100.00%
+Best update !!! M1 cost=259359 penalty = 0.00 area = 75.50% wirelength = 100.00%
+Best update !!! M1 cost=259316 penalty = 0.00 area = 75.51% wirelength = 100.00%
+Best update !!! M1 cost=259117 penalty = 0.00 area = 75.57% wirelength = 100.00%
+Best update !!! M1 cost=259037 penalty = 0.00 area = 75.59% wirelength = 100.00%
+Best update !!! M1 cost=259028 penalty = 0.00 area = 75.59% wirelength = 100.00%
+Best update !!! M1 cost=258946 penalty = 0.00 area = 75.62% wirelength = 100.00%
+Best update !!! M1 cost=258926 penalty = 0.00 area = 75.62% wirelength = 100.00%
+Best update !!! M1 cost=258880 penalty = 0.00 area = 75.64% wirelength = 100.00%
+Best update !!! M1 cost=258755 penalty = 0.00 area = 75.67% wirelength = 100.00%
+Best update !!! M1 cost=258727 penalty = 0.00 area = 75.68% wirelength = 100.00%
+Best update !!! M1 cost=258724 penalty = 0.00 area = 75.68% wirelength = 100.00%
+Best update !!! M1 cost=258296 penalty = 0.00 area = 75.81% wirelength = 100.00%
+Best update !!! M1 cost=258288 penalty = 0.00 area = 75.81% wirelength = 100.00%
+Best update !!! M1 cost=258045 penalty = 0.00 area = 75.88% wirelength = 100.00%
+Best update !!! M1 cost=257960 penalty = 0.00 area = 75.90% wirelength = 100.00%
+Best update !!! M1 cost=257629 penalty = 0.00 area = 76.00% wirelength = 100.00%
+M1 Accept: cost = 257932.00 penalty = 0.00% area = 75.91% wirelength = 100.00%
+Best update !!! M1 cost=257543 penalty = 0.00 area = 76.03% wirelength = 100.00%
+Best update !!! M1 cost=257435 penalty = 0.00 area = 75.71% wirelength = 100.00%
+Best update !!! M1 cost=257213 penalty = 0.00 area = 75.78% wirelength = 100.00%
+Best update !!! M1 cost=257107 penalty = 0.00 area = 75.81% wirelength = 100.00%
+Best update !!! M1 cost=257005 penalty = 0.00 area = 75.84% wirelength = 100.00%
+Best update !!! M1 cost=256495 penalty = 0.00 area = 75.99% wirelength = 100.00%
+Best update !!! M1 cost=256411 penalty = 0.00 area = 76.02% wirelength = 100.00%
+Best update !!! M1 cost=256313 penalty = 0.00 area = 76.05% wirelength = 100.00%
+Best update !!! M1 cost=256258 penalty = 0.00 area = 76.06% wirelength = 100.00%
+Best update !!! M1 cost=256171 penalty = 0.00 area = 76.09% wirelength = 100.00%
+Best update !!! M1 cost=255903 penalty = 0.00 area = 76.17% wirelength = 100.00%
+Best update !!! M1 cost=255706 penalty = 0.00 area = 76.23% wirelength = 100.00%
+Best update !!! M1 cost=255686 penalty = 0.00 area = 76.23% wirelength = 100.00%
+Best update !!! M1 cost=255649 penalty = 0.00 area = 76.24% wirelength = 100.00%
+Best update !!! M1 cost=255619 penalty = 0.00 area = 76.25% wirelength = 100.00%
+Best update !!! M1 cost=255537 penalty = 0.00 area = 76.28% wirelength = 100.00%
+Best update !!! M1 cost=255379 penalty = 0.00 area = 76.32% wirelength = 100.00%
+Best update !!! M1 cost=255340 penalty = 0.00 area = 76.34% wirelength = 100.00%
+Best update !!! M2 cost=254827 penalty = 0.00 area = 76.49% wirelength = 100.00%
+Best update !!! M1 cost=254726 penalty = 0.00 area = 76.52% wirelength = 100.00%
+Best update !!! M1 cost=254702 penalty = 0.00 area = 76.53% wirelength = 100.00%
+Best update !!! M1 cost=254384 penalty = 0.00 area = 76.62% wirelength = 100.00%
+Best update !!! M1 cost=254377 penalty = 0.00 area = 76.63% wirelength = 100.00%
+Best update !!! M1 cost=254219 penalty = 0.00 area = 76.67% wirelength = 100.00%
+Best update !!! M2 cost=254174 penalty = 0.00 area = 76.69% wirelength = 100.00%
+Best update !!! M1 cost=254118 penalty = 0.00 area = 76.70% wirelength = 100.00%
+Best update !!! M2 cost=254044 penalty = 0.00 area = 76.73% wirelength = 100.00%
+Best update !!! M1 cost=253928 penalty = 0.00 area = 76.76% wirelength = 100.00%
+Best update !!! M1 cost=253495 penalty = 0.00 area = 76.89% wirelength = 100.00%
+Best update !!! M1 cost=253488 penalty = 0.00 area = 76.90% wirelength = 100.00%
+Best update !!! M1 cost=253399 penalty = 0.00 area = 76.92% wirelength = 100.00%
+Best update !!! M1 cost=253277 penalty = 0.00 area = 76.96% wirelength = 100.00%
+Best update !!! M1 cost=252795 penalty = 0.00 area = 77.46% wirelength = 100.00%
+M1 Accept: cost = 252966.00 penalty = 0.00% area = 77.40% wirelength = 100.00%
+Best update !!! M1 cost=252709 penalty = 0.00 area = 77.48% wirelength = 100.00%
+Best update !!! M1 cost=252642 penalty = 0.00 area = 77.50% wirelength = 100.00%
+Best update !!! M1 cost=252459 penalty = 0.00 area = 77.21% wirelength = 100.00%
+Best update !!! M1 cost=252385 penalty = 0.00 area = 77.23% wirelength = 100.00%
+Best update !!! M1 cost=252297 penalty = 0.00 area = 77.26% wirelength = 100.00%
+Best update !!! M1 cost=252255 penalty = 0.00 area = 77.27% wirelength = 100.00%
+Best update !!! M1 cost=252185 penalty = 0.00 area = 77.29% wirelength = 100.00%
+Best update !!! M1 cost=252056 penalty = 0.00 area = 77.33% wirelength = 100.00%
+Best update !!! M1 cost=252028 penalty = 0.00 area = 77.34% wirelength = 100.00%
+Best update !!! M1 cost=251977 penalty = 0.00 area = 77.35% wirelength = 100.00%
+Best update !!! M1 cost=251638 penalty = 0.00 area = 77.46% wirelength = 100.00%
+Best update !!! M1 cost=251437 penalty = 0.00 area = 77.52% wirelength = 100.00%
+Best update !!! M1 cost=251355 penalty = 0.00 area = 77.55% wirelength = 100.00%
+Best update !!! M1 cost=251209 penalty = 0.00 area = 77.59% wirelength = 100.00%
+Best update !!! M1 cost=251205 penalty = 0.00 area = 77.59% wirelength = 100.00%
+Best update !!! M1 cost=251137 penalty = 0.00 area = 77.61% wirelength = 100.00%
+Best update !!! M2 cost=251065 penalty = 0.00 area = 77.64% wirelength = 100.00%
+Best update !!! M1 cost=250982 penalty = 0.00 area = 77.66% wirelength = 100.00%
+Best update !!! M1 cost=250980 penalty = 0.00 area = 77.84% wirelength = 100.00%
+Best update !!! M1 cost=250848 penalty = 0.00 area = 77.88% wirelength = 100.00%
+Best update !!! M1 cost=250828 penalty = 0.00 area = 77.89% wirelength = 100.00%
+Best update !!! M3 cost=250804 penalty = 0.00 area = 77.72% wirelength = 100.00%
+Best update !!! M1 cost=250654 penalty = 0.00 area = 77.76% wirelength = 100.00%
+Best update !!! M1 cost=250648 penalty = 0.00 area = 77.77% wirelength = 100.00%
+Best update !!! M1 cost=250382 penalty = 0.00 area = 77.85% wirelength = 100.00%
+Best update !!! M1 cost=250367 penalty = 0.00 area = 77.85% wirelength = 100.00%
+Best update !!! M1 cost=250353 penalty = 0.00 area = 77.86% wirelength = 100.00%
+Best update !!! M1 cost=250334 penalty = 0.00 area = 77.86% wirelength = 100.00%
+Best update !!! M1 cost=250292 penalty = 0.00 area = 77.88% wirelength = 100.00%
+Best update !!! M1 cost=250213 penalty = 0.00 area = 77.90% wirelength = 100.00%
+Best update !!! M1 cost=250163 penalty = 0.00 area = 77.92% wirelength = 100.00%
+Best update !!! M1 cost=250081 penalty = 0.00 area = 77.94% wirelength = 100.00%
+Best update !!! M1 cost=249981 penalty = 0.00 area = 77.97% wirelength = 100.00%
+Best update !!! M1 cost=249792 penalty = 0.00 area = 78.03% wirelength = 100.00%
+Best update !!! M1 cost=249737 penalty = 0.00 area = 78.05% wirelength = 100.00%
+Best update !!! M1 cost=249363 penalty = 0.00 area = 78.17% wirelength = 100.00%
+Best update !!! M1 cost=249054 penalty = 0.00 area = 78.26% wirelength = 100.00%
+Best update !!! M1 cost=248941 penalty = 0.00 area = 78.30% wirelength = 100.00%
+Best update !!! M1 cost=248886 penalty = 0.00 area = 78.32% wirelength = 100.00%
+Best update !!! M1 cost=248859 penalty = 0.00 area = 78.33% wirelength = 100.00%
+Best update !!! M1 cost=248692 penalty = 0.00 area = 78.38% wirelength = 100.00%
+Best update !!! M1 cost=248545 penalty = 0.00 area = 78.42% wirelength = 100.00%
+Best update !!! M1 cost=248450 penalty = 0.00 area = 78.45% wirelength = 100.00%
+Best update !!! M1 cost=248038 penalty = 0.00 area = 78.58% wirelength = 100.00%
+Best update !!! M3 cost=247894 penalty = 0.00 area = 78.63% wirelength = 100.00%
+Best update !!! M1 cost=247487 penalty = 0.00 area = 78.76% wirelength = 100.00%
+M3 Accept: cost = 247638.00 penalty = 0.00% area = 78.89% wirelength = 100.00%
+Best update !!! M1 cost=247480 penalty = 0.00 area = 79.12% wirelength = 100.00%
+Best update !!! M1 cost=247399 penalty = 0.00 area = 79.15% wirelength = 100.00%
+Best update !!! M1 cost=247279 penalty = 0.00 area = 79.18% wirelength = 100.00%
+Best update !!! M1 cost=247259 penalty = 0.00 area = 79.19% wirelength = 100.00%
+Best update !!! M1 cost=246940 penalty = 0.00 area = 79.29% wirelength = 100.00%
+Best update !!! M1 cost=246521 penalty = 0.00 area = 79.43% wirelength = 100.00%
+Best update !!! M1 cost=246258 penalty = 0.00 area = 79.51% wirelength = 100.00%
+Best update !!! M1 cost=246225 penalty = 0.00 area = 79.52% wirelength = 100.00%
+Best update !!! M1 cost=245775 penalty = 0.00 area = 79.67% wirelength = 100.00%
+Best update !!! M1 cost=245742 penalty = 0.00 area = 79.68% wirelength = 100.00%
+Best update !!! M1 cost=245382 penalty = 0.00 area = 79.80% wirelength = 100.00%
+Best update !!! M1 cost=245334 penalty = 0.00 area = 79.81% wirelength = 100.00%
+Best update !!! M1 cost=245233 penalty = 0.00 area = 79.84% wirelength = 100.00%
+Best update !!! M1 cost=245146 penalty = 0.00 area = 79.87% wirelength = 100.00%
+Best update !!! M1 cost=245038 penalty = 0.00 area = 79.91% wirelength = 100.00%
+Best update !!! M1 cost=244936 penalty = 0.00 area = 79.94% wirelength = 100.00%
+Best update !!! M2 cost=244902 penalty = 0.00 area = 79.95% wirelength = 100.00%
+Best update !!! M1 cost=244584 penalty = 0.00 area = 80.06% wirelength = 100.00%
+Best update !!! M1 cost=244539 penalty = 0.00 area = 80.07% wirelength = 100.00%
+Best update !!! M1 cost=244532 penalty = 0.00 area = 80.07% wirelength = 100.00%
+Best update !!! M1 cost=244379 penalty = 0.00 area = 80.12% wirelength = 100.00%
+Best update !!! M1 cost=244260 penalty = 0.00 area = 80.16% wirelength = 100.00%
+Best update !!! M1 cost=244220 penalty = 0.00 area = 80.18% wirelength = 100.00%
+Best update !!! M1 cost=244083 penalty = 0.00 area = 80.22% wirelength = 100.00%
+Best update !!! M1 cost=243978 penalty = 0.00 area = 80.25% wirelength = 100.00%
+Best update !!! M1 cost=243926 penalty = 0.00 area = 80.27% wirelength = 100.00%
+Best update !!! M1 cost=243867 penalty = 0.00 area = 80.29% wirelength = 100.00%
+Best update !!! M1 cost=243750 penalty = 0.00 area = 80.33% wirelength = 100.00%
+Best update !!! M1 cost=243745 penalty = 0.00 area = 80.33% wirelength = 100.00%
+Best update !!! M1 cost=243578 penalty = 0.00 area = 80.39% wirelength = 100.00%
+Best update !!! M1 cost=243515 penalty = 0.00 area = 80.41% wirelength = 100.00%
+Best update !!! M1 cost=243475 penalty = 0.00 area = 80.42% wirelength = 100.00%
+Best update !!! M1 cost=243435 penalty = 0.00 area = 80.62% wirelength = 100.00%
+Best update !!! M1 cost=243416 penalty = 0.00 area = 80.62% wirelength = 100.00%
+M3 Accept: cost = 244867.00 penalty = 0.00% area = 79.60% wirelength = 100.00%
+Best update !!! M1 cost=243275 penalty = 0.00 area = 80.49% wirelength = 100.00%
+Best update !!! M1 cost=243067 penalty = 0.00 area = 80.56% wirelength = 100.00%
+Best update !!! M1 cost=242914 penalty = 0.00 area = 80.61% wirelength = 100.00%
+Best update !!! M1 cost=242603 penalty = 0.00 area = 80.71% wirelength = 100.00%
+Best update !!! M1 cost=242487 penalty = 0.00 area = 80.75% wirelength = 100.00%
+Best update !!! M1 cost=242378 penalty = 0.00 area = 80.79% wirelength = 100.00%
+Best update !!! M1 cost=242294 penalty = 0.00 area = 80.81% wirelength = 100.00%
+Best update !!! M1 cost=242133 penalty = 0.00 area = 80.87% wirelength = 100.00%
+Best update !!! M1 cost=242124 penalty = 0.00 area = 80.87% wirelength = 100.00%
+Best update !!! M1 cost=242092 penalty = 0.00 area = 80.70% wirelength = 100.00%
+Best update !!! M1 cost=241988 penalty = 0.00 area = 80.73% wirelength = 100.00%
+Best update !!! M1 cost=241976 penalty = 0.00 area = 80.74% wirelength = 100.00%
+Best update !!! M1 cost=241867 penalty = 0.00 area = 80.77% wirelength = 100.00%
+Best update !!! M1 cost=241742 penalty = 0.00 area = 80.82% wirelength = 100.00%
+Best update !!! M1 cost=241726 penalty = 0.00 area = 80.82% wirelength = 100.00%
+Best update !!! M1 cost=241710 penalty = 0.00 area = 80.83% wirelength = 100.00%
+Best update !!! M1 cost=241702 penalty = 0.00 area = 80.83% wirelength = 100.00%
+Best update !!! M1 cost=241681 penalty = 0.00 area = 81.02% wirelength = 100.00%
+Best update !!! M1 cost=241406 penalty = 0.00 area = 81.11% wirelength = 100.00%
+Best update !!! M2 cost=241378 penalty = 0.00 area = 80.94% wirelength = 100.00%
+M3 Accept: cost = 241530.00 penalty = 0.00% area = 80.89% wirelength = 100.00%
+Best update !!! M1 cost=241196 penalty = 0.00 area = 81.00% wirelength = 100.00%
+Best update !!! M1 cost=241096 penalty = 0.00 area = 81.03% wirelength = 100.00%
+Best update !!! M1 cost=241013 penalty = 0.00 area = 81.06% wirelength = 100.00%
+Best update !!! M1 cost=240847 penalty = 0.00 area = 81.11% wirelength = 100.00%
+Best update !!! M1 cost=240682 penalty = 0.00 area = 81.17% wirelength = 100.00%
+Best update !!! M1 cost=240460 penalty = 0.00 area = 81.25% wirelength = 100.00%
+Best update !!! M1 cost=240317 penalty = 0.00 area = 81.29% wirelength = 100.00%
+Best update !!! M2 cost=240167 penalty = 0.00 area = 81.53% wirelength = 100.00%
+Best update !!! M1 cost=240012 penalty = 0.00 area = 81.21% wirelength = 100.00%
+Best update !!! M1 cost=239873 penalty = 0.00 area = 81.26% wirelength = 100.00%
+Best update !!! M1 cost=239830 penalty = 0.00 area = 81.27% wirelength = 100.00%
+Best update !!! M1 cost=239525 penalty = 0.00 area = 81.75% wirelength = 100.00%
+Best update !!! M1 cost=239332 penalty = 0.00 area = 81.81% wirelength = 100.00%
+Best update !!! M1 cost=239190 penalty = 0.00 area = 81.86% wirelength = 100.00%
+Best update !!! M1 cost=239175 penalty = 0.00 area = 81.50% wirelength = 100.00%
+Best update !!! M1 cost=239119 penalty = 0.00 area = 81.51% wirelength = 100.00%
+Best update !!! M2 cost=238811 penalty = 0.00 area = 81.62% wirelength = 100.00%
+Best update !!! M1 cost=238803 penalty = 0.00 area = 81.62% wirelength = 100.00%
+M3 Accept: cost = 239661.00 penalty = 0.00% area = 81.33% wirelength = 100.00%
+M3 Accept: cost = 240359.00 penalty = 0.00% area = 81.46% wirelength = 100.00%
+Best update !!! M1 cost=238790 penalty = 0.00 area = 82.37% wirelength = 100.00%
+Best update !!! M1 cost=238766 penalty = 0.00 area = 82.38% wirelength = 100.00%
+Best update !!! M1 cost=238762 penalty = 0.00 area = 82.38% wirelength = 100.00%
+Best update !!! M1 cost=238757 penalty = 0.00 area = 82.38% wirelength = 100.00%
+Best update !!! M2 cost=238625 penalty = 0.00 area = 82.43% wirelength = 100.00%
+Best update !!! M1 cost=238613 penalty = 0.00 area = 82.43% wirelength = 100.00%
+Best update !!! M1 cost=238485 penalty = 0.00 area = 82.48% wirelength = 100.00%
+Best update !!! M1 cost=238478 penalty = 0.00 area = 82.48% wirelength = 100.00%
+Best update !!! M1 cost=238468 penalty = 0.00 area = 82.48% wirelength = 100.00%
+Best update !!! M1 cost=238373 penalty = 0.00 area = 82.51% wirelength = 100.00%
+T = 166.10 exp(-delta_cost/T) = 1.00 delta = 0.00
+Best update !!! M1 cost=238357 penalty = 0.00 area = 81.77% wirelength = 100.00%
+Best update !!! M1 cost=238341 penalty = 0.00 area = 81.78% wirelength = 100.00%
+Best update !!! M1 cost=238320 penalty = 0.00 area = 81.79% wirelength = 100.00%
+Best update !!! M1 cost=238311 penalty = 0.00 area = 81.79% wirelength = 100.00%
+Best update !!! M1 cost=238192 penalty = 0.00 area = 81.83% wirelength = 100.00%
+Best update !!! M1 cost=238177 penalty = 0.00 area = 81.84% wirelength = 100.00%
+Best update !!! M1 cost=237904 penalty = 0.00 area = 81.93% wirelength = 100.00%
+Best update !!! M1 cost=237827 penalty = 0.00 area = 81.96% wirelength = 100.00%
+Best update !!! M1 cost=237685 penalty = 0.00 area = 82.01% wirelength = 100.00%
+Best update !!! M1 cost=237565 penalty = 0.00 area = 82.05% wirelength = 100.00%
+Best update !!! M1 cost=237553 penalty = 0.00 area = 82.05% wirelength = 100.00%
+Best update !!! M1 cost=237545 penalty = 0.00 area = 82.05% wirelength = 100.00%
+Best update !!! M1 cost=237242 penalty = 0.00 area = 82.16% wirelength = 100.00%
+Best update !!! M1 cost=237238 penalty = 0.00 area = 82.16% wirelength = 100.00%
+Best update !!! M1 cost=237068 penalty = 0.00 area = 82.22% wirelength = 100.00%
+Best update !!! M1 cost=236983 penalty = 0.00 area = 82.25% wirelength = 100.00%
+Best update !!! M1 cost=236971 penalty = 0.00 area = 82.25% wirelength = 100.00%
+Best update !!! M1 cost=236960 penalty = 0.00 area = 82.26% wirelength = 100.00%
+Best update !!! M1 cost=236855 penalty = 0.00 area = 82.30% wirelength = 100.00%
+Best update !!! M1 cost=236783 penalty = 0.00 area = 82.32% wirelength = 100.00%
+M1 Accept: cost = 237915.00 penalty = 0.00% area = 81.93% wirelength = 100.00%
+Best update !!! M1 cost=236731 penalty = 0.00 area = 82.71% wirelength = 100.00%
+Best update !!! M1 cost=236704 penalty = 0.00 area = 82.72% wirelength = 100.00%
+Best update !!! M1 cost=236602 penalty = 0.00 area = 82.76% wirelength = 100.00%
+Best update !!! M1 cost=236569 penalty = 0.00 area = 82.77% wirelength = 100.00%
+Best update !!! M1 cost=236558 penalty = 0.00 area = 82.77% wirelength = 100.00%
+Best update !!! M1 cost=236536 penalty = 0.00 area = 82.78% wirelength = 100.00%
+Best update !!! M1 cost=236425 penalty = 0.00 area = 82.82% wirelength = 100.00%
+Best update !!! M1 cost=236349 penalty = 0.00 area = 82.85% wirelength = 100.00%
+Best update !!! M1 cost=236314 penalty = 0.00 area = 82.86% wirelength = 100.00%
+Best update !!! M1 cost=236187 penalty = 0.00 area = 82.90% wirelength = 100.00%
+Best update !!! M1 cost=236121 penalty = 0.00 area = 82.93% wirelength = 100.00%
+Best update !!! M1 cost=236115 penalty = 0.00 area = 82.93% wirelength = 100.00%
+Best update !!! M1 cost=235987 penalty = 0.00 area = 82.97% wirelength = 100.00%
+Best update !!! M3 cost=235790 penalty = 0.00 area = 83.04% wirelength = 100.00%
+Best update !!! M1 cost=235789 penalty = 0.00 area = 83.04% wirelength = 100.00%
+Best update !!! M1 cost=235770 penalty = 0.00 area = 83.05% wirelength = 100.00%
+Best update !!! M1 cost=235685 penalty = 0.00 area = 83.08% wirelength = 100.00%
+Best update !!! M1 cost=235629 penalty = 0.00 area = 82.72% wirelength = 100.00%
+Best update !!! M1 cost=235507 penalty = 0.00 area = 82.76% wirelength = 100.00%
+M3 Accept: cost = 236327.00 penalty = 0.00% area = 83.04% wirelength = 100.00%
+M3 Accept: cost = 237081.00 penalty = 0.00% area = 82.59% wirelength = 100.00%
+M3 Accept: cost = 238098.00 penalty = 0.00% area = 82.05% wirelength = 100.00%
+M1 Accept: cost = 236954.00 penalty = 0.00% area = 82.45% wirelength = 100.00%
+Best update !!! M1 cost=235347 penalty = 0.00 area = 82.82% wirelength = 100.00%
+T = 159.46 exp(-delta_cost/T) = 0.45 delta = 129.00
+M3 Accept: cost = 237856.00 penalty = 0.00% area = 82.32% wirelength = 100.00%
+M3 Accept: cost = 237191.00 penalty = 0.00% area = 82.55% wirelength = 100.00%
+M1 Accept: cost = 237405.00 penalty = 0.00% area = 82.48% wirelength = 100.00%
+M3 Accept: cost = 239453.00 penalty = 0.00% area = 81.77% wirelength = 100.00%
+Best update !!! M1 cost=235171 penalty = 0.00 area = 83.64% wirelength = 100.00%
+Best update !!! M2 cost=235169 penalty = 0.00 area = 83.64% wirelength = 100.00%
+M1 Accept: cost = 235910.00 penalty = 0.00% area = 83.38% wirelength = 100.00%
+Best update !!! M1 cost=235141 penalty = 0.00 area = 83.65% wirelength = 100.00%
+Best update !!! M1 cost=235009 penalty = 0.00 area = 83.70% wirelength = 100.00%
+Best update !!! M1 cost=235002 penalty = 0.00 area = 83.70% wirelength = 100.00%
+Best update !!! M1 cost=234828 penalty = 0.00 area = 83.76% wirelength = 100.00%
+M1 Accept: cost = 234828.00 penalty = 0.00% area = 83.76% wirelength = 100.00%
+Best update !!! M1 cost=234819 penalty = 0.00 area = 83.76% wirelength = 100.00%
+Best update !!! M2 cost=234786 penalty = 0.00 area = 83.78% wirelength = 100.00%
+Best update !!! M1 cost=234656 penalty = 0.00 area = 83.82% wirelength = 100.00%
+Best update !!! M1 cost=234635 penalty = 0.00 area = 83.83% wirelength = 100.00%
+Best update !!! M1 cost=234589 penalty = 0.00 area = 83.85% wirelength = 100.00%
+Best update !!! M1 cost=234465 penalty = 0.00 area = 83.89% wirelength = 100.00%
+Best update !!! M1 cost=234447 penalty = 0.00 area = 83.90% wirelength = 100.00%
+Best update !!! M1 cost=234279 penalty = 0.00 area = 83.58% wirelength = 100.00%
+T = 153.08 exp(-delta_cost/T) = 1.00 delta = 0.00
+Best update !!! M1 cost=234217 penalty = 0.00 area = 83.60% wirelength = 100.00%
+Best update !!! M1 cost=233911 penalty = 0.00 area = 83.71% wirelength = 100.00%
+Best update !!! M1 cost=233859 penalty = 0.00 area = 83.73% wirelength = 100.00%
+Best update !!! M1 cost=233843 penalty = 0.00 area = 83.73% wirelength = 100.00%
+Best update !!! M1 cost=233811 penalty = 0.00 area = 83.75% wirelength = 100.00%
+Best update !!! M1 cost=233545 penalty = 0.00 area = 83.84% wirelength = 100.00%
+Best update !!! M1 cost=233493 penalty = 0.00 area = 84.24% wirelength = 100.00%
+Best update !!! M1 cost=233190 penalty = 0.00 area = 84.35% wirelength = 100.00%
+Best update !!! M1 cost=233132 penalty = 0.00 area = 84.37% wirelength = 100.00%
+Best update !!! M1 cost=233077 penalty = 0.00 area = 84.39% wirelength = 100.00%
+Best update !!! M1 cost=233065 penalty = 0.00 area = 84.39% wirelength = 100.00%
+Best update !!! M1 cost=233046 penalty = 0.00 area = 84.40% wirelength = 100.00%
+Best update !!! M1 cost=232998 penalty = 0.00 area = 84.42% wirelength = 100.00%
+Best update !!! M1 cost=232899 penalty = 0.00 area = 84.45% wirelength = 100.00%
+Best update !!! M1 cost=232784 penalty = 0.00 area = 84.50% wirelength = 100.00%
+M3 Accept: cost = 232987.00 penalty = 0.00% area = 84.42% wirelength = 100.00%
+Best update !!! M1 cost=232698 penalty = 0.00 area = 84.53% wirelength = 100.00%
+Best update !!! M1 cost=232538 penalty = 0.00 area = 84.58% wirelength = 100.00%
+Best update !!! M1 cost=232442 penalty = 0.00 area = 84.62% wirelength = 100.00%
+Best update !!! M1 cost=232418 penalty = 0.00 area = 84.63% wirelength = 100.00%
+Best update !!! M1 cost=232361 penalty = 0.00 area = 84.65% wirelength = 100.00%
+Best update !!! M1 cost=232139 penalty = 0.00 area = 84.73% wirelength = 100.00%
+Best update !!! M1 cost=232138 penalty = 0.00 area = 84.73% wirelength = 100.00%
+Best update !!! M1 cost=231981 penalty = 0.00 area = 84.79% wirelength = 100.00%
+Best update !!! M1 cost=231941 penalty = 0.00 area = 84.80% wirelength = 100.00%
+M1 Accept: cost = 232180.00 penalty = 0.00% area = 84.72% wirelength = 100.00%
+Best update !!! M1 cost=231869 penalty = 0.00 area = 84.83% wirelength = 100.00%
+Best update !!! M1 cost=231630 penalty = 0.00 area = 84.92% wirelength = 100.00%
+Best update !!! M1 cost=231621 penalty = 0.00 area = 84.92% wirelength = 100.00%
+M3 Accept: cost = 232774.00 penalty = 0.00% area = 84.31% wirelength = 100.00%
+M1 Accept: cost = 232275.00 penalty = 0.00% area = 84.68% wirelength = 100.00%
+M1 Accept: cost = 233853.00 penalty = 0.00% area = 84.11% wirelength = 100.00%
+M3 Accept: cost = 234304.00 penalty = 0.00% area = 83.95% wirelength = 100.00%
+T = 146.95 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 233326.00 penalty = 0.00% area = 84.30% wirelength = 100.00%
+M3 Accept: cost = 232850.00 penalty = 0.00% area = 84.47% wirelength = 100.00%
+M3 Accept: cost = 233685.00 penalty = 0.00% area = 84.17% wirelength = 100.00%
+M3 Accept: cost = 233684.00 penalty = 0.00% area = 84.17% wirelength = 100.00%
+M3 Accept: cost = 235493.00 penalty = 0.00% area = 83.52% wirelength = 100.00%
+T = 141.08 exp(-delta_cost/T) = 0.26 delta = 189.00
+M1 Accept: cost = 233962.00 penalty = 0.00% area = 84.07% wirelength = 100.00%
+M3 Accept: cost = 236006.00 penalty = 0.00% area = 83.34% wirelength = 100.00%
+M1 Accept: cost = 235536.00 penalty = 0.00% area = 83.51% wirelength = 100.00%
+M3 Accept: cost = 234633.00 penalty = 0.00% area = 83.83% wirelength = 100.00%
+M1 Accept: cost = 235380.00 penalty = 0.00% area = 83.56% wirelength = 100.00%
+M3 Accept: cost = 238061.00 penalty = 0.00% area = 82.62% wirelength = 100.00%
+T = 135.43 exp(-delta_cost/T) = 0.00 delta = 630661957426.00
+M3 Accept: cost = 236205.00 penalty = 0.00% area = 83.27% wirelength = 100.00%
+M3 Accept: cost = 234675.00 penalty = 0.00% area = 83.81% wirelength = 100.00%
+M1 Accept: cost = 233893.00 penalty = 0.00% area = 84.09% wirelength = 100.00%
+M1 Accept: cost = 233627.00 penalty = 0.00% area = 84.19% wirelength = 100.00%
+M3 Accept: cost = 234830.00 penalty = 0.00% area = 83.76% wirelength = 100.00%
+M1 Accept: cost = 234989.00 penalty = 0.00% area = 83.70% wirelength = 100.00%
+T = 130.02 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 233460.00 penalty = 0.00% area = 84.25% wirelength = 100.00%
+M3 Accept: cost = 234901.00 penalty = 0.00% area = 83.73% wirelength = 100.00%
+M3 Accept: cost = 232858.00 penalty = 0.00% area = 84.47% wirelength = 100.00%
+M1 Accept: cost = 234042.00 penalty = 0.00% area = 84.04% wirelength = 100.00%
+M1 Accept: cost = 232703.00 penalty = 0.00% area = 84.52% wirelength = 100.00%
+T = 124.82 exp(-delta_cost/T) = 0.21 delta = 194.00
+Best update !!! M1 cost=231507 penalty = 0.00 area = 84.96% wirelength = 100.00%
+M3 Accept: cost = 232794.00 penalty = 0.00% area = 84.49% wirelength = 100.00%
+M3 Accept: cost = 233698.00 penalty = 0.00% area = 84.17% wirelength = 100.00%
+M3 Accept: cost = 232894.00 penalty = 0.00% area = 84.46% wirelength = 100.00%
+M1 Accept: cost = 233238.00 penalty = 0.00% area = 84.33% wirelength = 100.00%
+M3 Accept: cost = 233458.00 penalty = 0.00% area = 84.25% wirelength = 100.00%
+M1 Accept: cost = 232655.00 penalty = 0.00% area = 84.54% wirelength = 100.00%
+T = 119.82 exp(-delta_cost/T) = 0.22 delta = 184.00
+M3 Accept: cost = 232953.00 penalty = 0.00% area = 84.43% wirelength = 100.00%
+M3 Accept: cost = 232092.00 penalty = 0.00% area = 84.75% wirelength = 100.00%
+M3 Accept: cost = 233586.00 penalty = 0.00% area = 84.21% wirelength = 100.00%
+M3 Accept: cost = 232860.00 penalty = 0.00% area = 84.47% wirelength = 100.00%
+Best update !!! M1 cost=231320 penalty = 0.00 area = 85.03% wirelength = 100.00%
+Best update !!! M1 cost=231318 penalty = 0.00 area = 85.03% wirelength = 100.00%
+M1 Accept: cost = 232224.00 penalty = 0.00% area = 84.70% wirelength = 100.00%
+Best update !!! M1 cost=231303 penalty = 0.00 area = 85.04% wirelength = 100.00%
+Best update !!! M1 cost=231179 penalty = 0.00 area = 85.08% wirelength = 100.00%
+Best update !!! M1 cost=231140 penalty = 0.00 area = 85.10% wirelength = 100.00%
+Best update !!! M1 cost=231103 penalty = 0.00 area = 85.11% wirelength = 100.00%
+Best update !!! M1 cost=230881 penalty = 0.00 area = 85.19% wirelength = 100.00%
+Best update !!! M1 cost=230865 penalty = 0.00 area = 85.20% wirelength = 100.00%
+Best update !!! M1 cost=230834 penalty = 0.00 area = 85.21% wirelength = 100.00%
+Best update !!! M1 cost=230800 penalty = 0.00 area = 85.22% wirelength = 100.00%
+Best update !!! M1 cost=230780 penalty = 0.00 area = 85.23% wirelength = 100.00%
+Best update !!! M1 cost=230698 penalty = 0.00 area = 85.26% wirelength = 100.00%
+M1 Accept: cost = 231554.00 penalty = 0.00% area = 84.94% wirelength = 100.00%
+T = 115.03 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 232169.00 penalty = 0.00% area = 84.72% wirelength = 100.00%
+M3 Accept: cost = 232216.00 penalty = 0.00% area = 84.70% wirelength = 100.00%
+M1 Accept: cost = 231858.00 penalty = 0.00% area = 84.83% wirelength = 100.00%
+M3 Accept: cost = 232088.00 penalty = 0.00% area = 84.75% wirelength = 100.00%
+M3 Accept: cost = 232360.00 penalty = 0.00% area = 84.65% wirelength = 100.00%
+T = 110.43 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 231376.00 penalty = 0.00% area = 85.01% wirelength = 100.00%
+M3 Accept: cost = 232245.00 penalty = 0.00% area = 84.69% wirelength = 100.00%
+M3 Accept: cost = 231223.00 penalty = 0.00% area = 85.07% wirelength = 100.00%
+Best update !!! M1 cost=230663 penalty = 0.00 area = 85.27% wirelength = 100.00%
+Best update !!! M1 cost=230650 penalty = 0.00 area = 85.28% wirelength = 100.00%
+M1 Accept: cost = 230650.00 penalty = 0.00% area = 85.28% wirelength = 100.00%
+T = 106.01 exp(-delta_cost/T) = 0.00 delta = 472304711892.00
+M1 Accept: cost = 232316.00 penalty = 0.00% area = 84.67% wirelength = 100.00%
+Best update !!! M1 cost=230613 penalty = 0.00 area = 85.29% wirelength = 100.00%
+Best update !!! M1 cost=230594 penalty = 0.00 area = 85.30% wirelength = 100.00%
+Best update !!! M1 cost=230588 penalty = 0.00 area = 85.30% wirelength = 100.00%
+Best update !!! M1 cost=230575 penalty = 0.00 area = 85.30% wirelength = 100.00%
+Best update !!! M1 cost=230543 penalty = 0.00 area = 85.32% wirelength = 100.00%
+M3 Accept: cost = 232231.00 penalty = 0.00% area = 84.70% wirelength = 100.00%
+T = 101.77 exp(-delta_cost/T) = 0.00 delta = 35876044982122.00
+Best update !!! M1 cost=230514 penalty = 0.00 area = 85.33% wirelength = 100.00%
+M1 Accept: cost = 230887.00 penalty = 0.00% area = 85.19% wirelength = 100.00%
+Best update !!! M1 cost=230322 penalty = 0.00 area = 85.40% wirelength = 100.00%
+Best update !!! M1 cost=230313 penalty = 0.00 area = 85.40% wirelength = 100.00%
+Best update !!! M1 cost=230285 penalty = 0.00 area = 85.41% wirelength = 100.00%
+Best update !!! M1 cost=230265 penalty = 0.00 area = 85.42% wirelength = 100.00%
+Best update !!! M1 cost=230253 penalty = 0.00 area = 85.42% wirelength = 100.00%
+M3 Accept: cost = 232263.00 penalty = 0.00% area = 84.69% wirelength = 100.00%
+M3 Accept: cost = 232730.00 penalty = 0.00% area = 84.52% wirelength = 100.00%
+M3 Accept: cost = 231108.00 penalty = 0.00% area = 85.11% wirelength = 100.00%
+M3 Accept: cost = 232270.00 penalty = 0.00% area = 84.68% wirelength = 100.00%
+T = 97.70 exp(-delta_cost/T) = 0.61 delta = 48.00
+M3 Accept: cost = 232125.00 penalty = 0.00% area = 84.74% wirelength = 100.00%
+M3 Accept: cost = 232691.00 penalty = 0.00% area = 84.53% wirelength = 100.00%
+M3 Accept: cost = 231307.00 penalty = 0.00% area = 85.04% wirelength = 100.00%
+M3 Accept: cost = 230769.00 penalty = 0.00% area = 85.23% wirelength = 100.00%
+M3 Accept: cost = 231226.00 penalty = 0.00% area = 85.06% wirelength = 100.00%
+M1 Accept: cost = 230887.00 penalty = 0.00% area = 85.19% wirelength = 100.00%
+T = 93.79 exp(-delta_cost/T) = 0.00 delta = 132533818463.00
+M3 Accept: cost = 231055.00 penalty = 0.00% area = 85.13% wirelength = 100.00%
+M1 Accept: cost = 232008.00 penalty = 0.00% area = 84.78% wirelength = 100.00%
+M3 Accept: cost = 232788.00 penalty = 0.00% area = 84.49% wirelength = 100.00%
+M1 Accept: cost = 231416.00 penalty = 0.00% area = 84.99% wirelength = 100.00%
+M3 Accept: cost = 231282.00 penalty = 0.00% area = 85.04% wirelength = 100.00%
+M3 Accept: cost = 232122.00 penalty = 0.00% area = 84.74% wirelength = 100.00%
+T = 90.04 exp(-delta_cost/T) = 1.00 delta = 0.00
+M1 Accept: cost = 231878.00 penalty = 0.00% area = 84.83% wirelength = 100.00%
+M1 Accept: cost = 231635.00 penalty = 0.00% area = 84.91% wirelength = 100.00%
+T = 86.44 exp(-delta_cost/T) = 0.33 delta = 96.00
+M1 Accept: cost = 230872.00 penalty = 0.00% area = 85.20% wirelength = 100.00%
+M3 Accept: cost = 231388.00 penalty = 0.00% area = 85.01% wirelength = 100.00%
+M3 Accept: cost = 230538.00 penalty = 0.00% area = 85.32% wirelength = 100.00%
+M1 Accept: cost = 230709.00 penalty = 0.00% area = 85.26% wirelength = 100.00%
+T = 82.98 exp(-delta_cost/T) = 1.00 delta = 0.00
+M1 Accept: cost = 231310.00 penalty = 0.00% area = 85.03% wirelength = 100.00%
+M1 Accept: cost = 231941.00 penalty = 0.00% area = 84.80% wirelength = 100.00%
+M3 Accept: cost = 231142.00 penalty = 0.00% area = 85.10% wirelength = 100.00%
+M1 Accept: cost = 230853.00 penalty = 0.00% area = 85.20% wirelength = 100.00%
+M3 Accept: cost = 230805.00 penalty = 0.00% area = 85.22% wirelength = 100.00%
+T = 79.66 exp(-delta_cost/T) = 0.00 delta = 38126059371482.00
+M3 Accept: cost = 231040.00 penalty = 0.00% area = 85.13% wirelength = 100.00%
+M1 Accept: cost = 230639.00 penalty = 0.00% area = 85.28% wirelength = 100.00%
+M1 Accept: cost = 231346.00 penalty = 0.00% area = 85.02% wirelength = 100.00%
+M3 Accept: cost = 231636.00 penalty = 0.00% area = 84.91% wirelength = 100.00%
+M3 Accept: cost = 232014.00 penalty = 0.00% area = 84.78% wirelength = 100.00%
+M3 Accept: cost = 231988.00 penalty = 0.00% area = 84.79% wirelength = 100.00%
+T = 76.48 exp(-delta_cost/T) = 0.00 delta = 446.00
+M2 Accept: cost = 230994.00 penalty = 0.00% area = 85.15% wirelength = 100.00%
+M3 Accept: cost = 230666.00 penalty = 0.00% area = 85.27% wirelength = 100.00%
+T = 73.42 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 230879.00 penalty = 0.00% area = 85.19% wirelength = 100.00%
+Best update !!! M1 cost=230234 penalty = 0.00 area = 85.43% wirelength = 100.00%
+Best update !!! M1 cost=230212 penalty = 0.00 area = 85.44% wirelength = 100.00%
+Best update !!! M1 cost=230200 penalty = 0.00 area = 85.44% wirelength = 100.00%
+Best update !!! M1 cost=230187 penalty = 0.00 area = 85.45% wirelength = 100.00%
+Best update !!! M1 cost=230186 penalty = 0.00 area = 85.45% wirelength = 100.00%
+Best update !!! M2 cost=230103 penalty = 0.00 area = 85.48% wirelength = 100.00%
+Best update !!! M1 cost=230094 penalty = 0.00 area = 85.48% wirelength = 100.00%
+Best update !!! M1 cost=229992 penalty = 0.00 area = 85.52% wirelength = 100.00%
+Best update !!! M1 cost=229958 penalty = 0.00 area = 85.53% wirelength = 100.00%
+M3 Accept: cost = 230146.00 penalty = 0.00% area = 85.46% wirelength = 100.00%
+Best update !!! M1 cost=229944 penalty = 0.00 area = 85.54% wirelength = 100.00%
+Best update !!! M1 cost=229939 penalty = 0.00 area = 85.54% wirelength = 100.00%
+Best update !!! M1 cost=229925 penalty = 0.00 area = 85.55% wirelength = 100.00%
+Best update !!! M1 cost=229852 penalty = 0.00 area = 85.57% wirelength = 100.00%
+Best update !!! M1 cost=229794 penalty = 0.00 area = 85.59% wirelength = 100.00%
+Best update !!! M1 cost=229780 penalty = 0.00 area = 85.60% wirelength = 100.00%
+Best update !!! M1 cost=229740 penalty = 0.00 area = 85.62% wirelength = 100.00%
+Best update !!! M1 cost=229714 penalty = 0.00 area = 85.62% wirelength = 100.00%
+Best update !!! M1 cost=229704 penalty = 0.00 area = 85.63% wirelength = 100.00%
+M3 Accept: cost = 230971.00 penalty = 0.00% area = 85.16% wirelength = 100.00%
+T = 70.48 exp(-delta_cost/T) = 0.47 delta = 53.00
+M3 Accept: cost = 230871.00 penalty = 0.00% area = 85.20% wirelength = 100.00%
+M1 Accept: cost = 231953.00 penalty = 0.00% area = 84.80% wirelength = 100.00%
+M3 Accept: cost = 230166.00 penalty = 0.00% area = 85.46% wirelength = 100.00%
+M1 Accept: cost = 230476.00 penalty = 0.00% area = 85.34% wirelength = 100.00%
+T = 67.66 exp(-delta_cost/T) = 0.00 delta = 41111081190349.00
+M1 Accept: cost = 230425.00 penalty = 0.00% area = 85.36% wirelength = 100.00%
+M1 Accept: cost = 231014.00 penalty = 0.00% area = 85.14% wirelength = 100.00%
+M1 Accept: cost = 231096.00 penalty = 0.00% area = 85.11% wirelength = 100.00%
+T = 64.95 exp(-delta_cost/T) = 0.00 delta = 360403219928.00
+M3 Accept: cost = 230502.00 penalty = 0.00% area = 85.33% wirelength = 100.00%
+M1 Accept: cost = 230396.00 penalty = 0.00% area = 85.37% wirelength = 100.00%
+M3 Accept: cost = 230720.00 penalty = 0.00% area = 85.25% wirelength = 100.00%
+M3 Accept: cost = 231093.00 penalty = 0.00% area = 85.11% wirelength = 100.00%
+M3 Accept: cost = 230435.00 penalty = 0.00% area = 85.36% wirelength = 100.00%
+T = 62.36 exp(-delta_cost/T) = 0.00 delta = 159990869388.00
+M1 Accept: cost = 230354.00 penalty = 0.00% area = 85.19% wirelength = 100.00%
+M3 Accept: cost = 230334.00 penalty = 0.00% area = 85.20% wirelength = 100.00%
+M1 Accept: cost = 230911.00 penalty = 0.00% area = 84.99% wirelength = 100.00%
+T = 59.86 exp(-delta_cost/T) = 0.00 delta = 777.00
+M3 Accept: cost = 230437.00 penalty = 0.00% area = 85.16% wirelength = 100.00%
+M3 Accept: cost = 230343.00 penalty = 0.00% area = 85.20% wirelength = 100.00%
+M1 Accept: cost = 230090.00 penalty = 0.00% area = 85.48% wirelength = 100.00%
+M1 Accept: cost = 230057.00 penalty = 0.00% area = 85.50% wirelength = 100.00%
+T = 57.47 exp(-delta_cost/T) = 0.00 delta = 322498836483.00
+M3 Accept: cost = 229954.00 penalty = 0.00% area = 85.54% wirelength = 100.00%
+M3 Accept: cost = 230162.00 penalty = 0.00% area = 85.46% wirelength = 100.00%
+Best update !!! M1 cost=229679 penalty = 0.00 area = 85.64% wirelength = 100.00%
+Best update !!! M1 cost=229678 penalty = 0.00 area = 85.64% wirelength = 100.00%
+Best update !!! M1 cost=229676 penalty = 0.00 area = 85.64% wirelength = 100.00%
+Best update !!! M1 cost=229660 penalty = 0.00 area = 85.64% wirelength = 100.00%
+Best update !!! M1 cost=229657 penalty = 0.00 area = 85.65% wirelength = 100.00%
+M3 Accept: cost = 229938.00 penalty = 0.00% area = 85.54% wirelength = 100.00%
+M1 Accept: cost = 230172.00 penalty = 0.00% area = 85.45% wirelength = 100.00%
+T = 55.17 exp(-delta_cost/T) = 27.09 delta = -182.00
+M1 Accept: cost = 231074.00 penalty = 0.00% area = 85.12% wirelength = 100.00%
+M3 Accept: cost = 230766.00 penalty = 0.00% area = 85.23% wirelength = 100.00%
+T = 52.96 exp(-delta_cost/T) = 0.00 delta = 576386064798.00
+M3 Accept: cost = 230079.00 penalty = 0.00% area = 85.49% wirelength = 100.00%
+M1 Accept: cost = 230182.00 penalty = 0.00% area = 85.45% wirelength = 100.00%
+M3 Accept: cost = 230201.00 penalty = 0.00% area = 85.44% wirelength = 100.00%
+M3 Accept: cost = 230215.00 penalty = 0.00% area = 85.44% wirelength = 100.00%
+T = 50.84 exp(-delta_cost/T) = 0.10 delta = 118.00
+M1 Accept: cost = 230022.00 penalty = 0.00% area = 85.51% wirelength = 100.00%
+Best update !!! M1 cost=229640 penalty = 0.00 area = 85.65% wirelength = 100.00%
+Best update !!! M1 cost=229627 penalty = 0.00 area = 85.66% wirelength = 100.00%
+Best update !!! M1 cost=229620 penalty = 0.00 area = 85.66% wirelength = 100.00%
+Best update !!! M1 cost=229598 penalty = 0.00 area = 85.67% wirelength = 100.00%
+M3 Accept: cost = 229718.00 penalty = 0.00% area = 85.62% wirelength = 100.00%
+M1 Accept: cost = 229755.00 penalty = 0.00% area = 85.61% wirelength = 100.00%
+M3 Accept: cost = 229836.00 penalty = 0.00% area = 85.58% wirelength = 100.00%
+M3 Accept: cost = 229939.00 penalty = 0.00% area = 85.54% wirelength = 100.00%
+M2 Accept: cost = 230015.00 penalty = 0.00% area = 85.51% wirelength = 100.00%
+T = 48.81 exp(-delta_cost/T) = 0.00 delta = 66138846182.00
+M3 Accept: cost = 229994.00 penalty = 0.00% area = 85.52% wirelength = 100.00%
+M3 Accept: cost = 229956.00 penalty = 0.00% area = 85.53% wirelength = 100.00%
+M1 Accept: cost = 230446.00 penalty = 0.00% area = 85.35% wirelength = 100.00%
+T = 46.86 exp(-delta_cost/T) = 0.00 delta = 390.00
+M3 Accept: cost = 230481.00 penalty = 0.00% area = 85.34% wirelength = 100.00%
+M3 Accept: cost = 230094.00 penalty = 0.00% area = 85.48% wirelength = 100.00%
+M1 Accept: cost = 230199.00 penalty = 0.00% area = 85.44% wirelength = 100.00%
+M3 Accept: cost = 229934.00 penalty = 0.00% area = 85.54% wirelength = 100.00%
+M3 Accept: cost = 229972.00 penalty = 0.00% area = 85.53% wirelength = 100.00%
+T = 44.98 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 230073.00 penalty = 0.00% area = 85.49% wirelength = 100.00%
+Best update !!! M1 cost=229582 penalty = 0.00 area = 85.67% wirelength = 100.00%
+Best update !!! M1 cost=229581 penalty = 0.00 area = 85.67% wirelength = 100.00%
+Best update !!! M1 cost=229545 penalty = 0.00 area = 85.69% wirelength = 100.00%
+M3 Accept: cost = 230671.00 penalty = 0.00% area = 85.27% wirelength = 100.00%
+M3 Accept: cost = 230184.00 penalty = 0.00% area = 85.45% wirelength = 100.00%
+M3 Accept: cost = 229816.00 penalty = 0.00% area = 85.59% wirelength = 100.00%
+T = 43.18 exp(-delta_cost/T) = 0.00 delta = 1579378034.00
+Best update !!! M1 cost=229535 penalty = 0.00 area = 85.69% wirelength = 100.00%
+Best update !!! M1 cost=229488 penalty = 0.00 area = 85.71% wirelength = 100.00%
+Best update !!! M1 cost=229474 penalty = 0.00 area = 85.71% wirelength = 100.00%
+Best update !!! M1 cost=229462 penalty = 0.00 area = 85.72% wirelength = 100.00%
+M3 Accept: cost = 229801.00 penalty = 0.00% area = 85.59% wirelength = 100.00%
+T = 41.46 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229603.00 penalty = 0.00% area = 85.67% wirelength = 100.00%
+M3 Accept: cost = 229930.00 penalty = 0.00% area = 85.54% wirelength = 100.00%
+M3 Accept: cost = 229872.00 penalty = 0.00% area = 85.57% wirelength = 100.00%
+M3 Accept: cost = 230040.00 penalty = 0.00% area = 85.50% wirelength = 100.00%
+T = 39.80 exp(-delta_cost/T) = 0.02 delta = 157.00
+M1 Accept: cost = 229874.00 penalty = 0.00% area = 85.57% wirelength = 100.00%
+Best update !!! M1 cost=229436 penalty = 0.00 area = 85.73% wirelength = 100.00%
+Best update !!! M1 cost=229419 penalty = 0.00 area = 85.73% wirelength = 100.00%
+M3 Accept: cost = 229479.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+M3 Accept: cost = 229519.00 penalty = 0.00% area = 85.70% wirelength = 100.00%
+T = 38.21 exp(-delta_cost/T) = 0.00 delta = 308.00
+M3 Accept: cost = 229546.00 penalty = 0.00% area = 85.69% wirelength = 100.00%
+M3 Accept: cost = 229793.00 penalty = 0.00% area = 85.60% wirelength = 100.00%
+M1 Accept: cost = 229987.00 penalty = 0.00% area = 85.52% wirelength = 100.00%
+M2 Accept: cost = 229491.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+M3 Accept: cost = 229856.00 penalty = 0.00% area = 85.57% wirelength = 100.00%
+Best update !!! M1 cost=229369 penalty = 0.00 area = 85.75% wirelength = 100.00%
+T = 36.68 exp(-delta_cost/T) = 0.00 delta = 307630282.00
+M3 Accept: cost = 229900.00 penalty = 0.00% area = 85.56% wirelength = 100.00%
+M3 Accept: cost = 229503.00 penalty = 0.00% area = 85.70% wirelength = 100.00%
+M1 Accept: cost = 229486.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+M3 Accept: cost = 229722.00 penalty = 0.00% area = 85.62% wirelength = 100.00%
+T = 35.21 exp(-delta_cost/T) = 0.00 delta = 1373258855969.00
+M1 Accept: cost = 229812.00 penalty = 0.00% area = 85.59% wirelength = 100.00%
+M3 Accept: cost = 230167.00 penalty = 0.00% area = 85.46% wirelength = 100.00%
+M1 Accept: cost = 229726.00 penalty = 0.00% area = 85.62% wirelength = 100.00%
+T = 33.80 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229746.00 penalty = 0.00% area = 85.61% wirelength = 100.00%
+M3 Accept: cost = 229589.00 penalty = 0.00% area = 85.67% wirelength = 100.00%
+Best update !!! M1 cost=229368 penalty = 0.00 area = 85.75% wirelength = 100.00%
+M3 Accept: cost = 229629.00 penalty = 0.00% area = 85.66% wirelength = 100.00%
+M3 Accept: cost = 229521.00 penalty = 0.00% area = 85.70% wirelength = 100.00%
+T = 32.45 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229591.00 penalty = 0.00% area = 85.67% wirelength = 100.00%
+M3 Accept: cost = 229632.00 penalty = 0.00% area = 85.66% wirelength = 100.00%
+M3 Accept: cost = 229709.00 penalty = 0.00% area = 85.63% wirelength = 100.00%
+M3 Accept: cost = 229525.00 penalty = 0.00% area = 85.70% wirelength = 100.00%
+M3 Accept: cost = 229870.00 penalty = 0.00% area = 85.57% wirelength = 100.00%
+Best update !!! M1 cost=229362 penalty = 0.00 area = 85.76% wirelength = 100.00%
+Best update !!! M1 cost=229360 penalty = 0.00 area = 85.76% wirelength = 100.00%
+T = 31.15 exp(-delta_cost/T) = 1.57 delta = -14.00
+Best update !!! M1 cost=229357 penalty = 0.00 area = 85.76% wirelength = 100.00%
+Best update !!! M1 cost=229356 penalty = 0.00 area = 85.76% wirelength = 100.00%
+Best update !!! M1 cost=229314 penalty = 0.00 area = 85.77% wirelength = 100.00%
+Best update !!! M1 cost=229295 penalty = 0.00 area = 85.78% wirelength = 100.00%
+Best update !!! M1 cost=229288 penalty = 0.00 area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229391.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+Best update !!! M1 cost=229287 penalty = 0.00 area = 85.78% wirelength = 100.00%
+Best update !!! M1 cost=229279 penalty = 0.00 area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229488.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+T = 29.91 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229616.00 penalty = 0.00% area = 85.66% wirelength = 100.00%
+M1 Accept: cost = 229630.00 penalty = 0.00% area = 85.66% wirelength = 100.00%
+T = 28.71 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229566.00 penalty = 0.00% area = 85.68% wirelength = 100.00%
+M3 Accept: cost = 229439.00 penalty = 0.00% area = 85.73% wirelength = 100.00%
+M3 Accept: cost = 229588.00 penalty = 0.00% area = 85.67% wirelength = 100.00%
+M3 Accept: cost = 229554.00 penalty = 0.00% area = 85.68% wirelength = 100.00%
+M3 Accept: cost = 229407.00 penalty = 0.00% area = 85.74% wirelength = 100.00%
+M3 Accept: cost = 229494.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+M3 Accept: cost = 229567.00 penalty = 0.00% area = 85.68% wirelength = 100.00%
+T = 27.56 exp(-delta_cost/T) = 0.00 delta = 580568941701.00
+Best update !!! M1 cost=229275 penalty = 0.00 area = 85.79% wirelength = 100.00%
+Best update !!! M2 cost=229264 penalty = 0.00 area = 85.79% wirelength = 100.00%
+Best update !!! M1 cost=229257 penalty = 0.00 area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229412.00 penalty = 0.00% area = 85.74% wirelength = 100.00%
+Best update !!! M1 cost=229256 penalty = 0.00 area = 85.80% wirelength = 100.00%
+Best update !!! M1 cost=229249 penalty = 0.00 area = 85.80% wirelength = 100.00%
+Best update !!! M1 cost=229210 penalty = 0.00 area = 85.81% wirelength = 100.00%
+T = 26.46 exp(-delta_cost/T) = 0.00 delta = 603.00
+M3 Accept: cost = 229531.00 penalty = 0.00% area = 85.69% wirelength = 100.00%
+T = 25.40 exp(-delta_cost/T) = 0.00 delta = 149.00
+M3 Accept: cost = 229416.00 penalty = 0.00% area = 85.74% wirelength = 100.00%
+T = 24.38 exp(-delta_cost/T) = 0.03 delta = 87.00
+M3 Accept: cost = 229550.00 penalty = 0.00% area = 85.69% wirelength = 100.00%
+M3 Accept: cost = 229479.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+M3 Accept: cost = 229414.00 penalty = 0.00% area = 85.74% wirelength = 100.00%
+T = 23.41 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229512.00 penalty = 0.00% area = 85.70% wirelength = 100.00%
+M3 Accept: cost = 229373.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+M3 Accept: cost = 229490.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+T = 22.47 exp(-delta_cost/T) = 0.11 delta = 50.00
+M3 Accept: cost = 229673.00 penalty = 0.00% area = 85.64% wirelength = 100.00%
+M3 Accept: cost = 229546.00 penalty = 0.00% area = 85.69% wirelength = 100.00%
+M1 Accept: cost = 229499.00 penalty = 0.00% area = 85.70% wirelength = 100.00%
+M3 Accept: cost = 229528.00 penalty = 0.00% area = 85.69% wirelength = 100.00%
+M3 Accept: cost = 229457.00 penalty = 0.00% area = 85.72% wirelength = 100.00%
+M3 Accept: cost = 229459.00 penalty = 0.00% area = 85.72% wirelength = 100.00%
+T = 21.57 exp(-delta_cost/T) = 0.00 delta = 195.00
+M3 Accept: cost = 229545.00 penalty = 0.00% area = 85.69% wirelength = 100.00%
+M3 Accept: cost = 229317.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229377.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+T = 20.71 exp(-delta_cost/T) = 0.00 delta = 34181682.00
+M3 Accept: cost = 229516.00 penalty = 0.00% area = 85.70% wirelength = 100.00%
+M3 Accept: cost = 229539.00 penalty = 0.00% area = 85.69% wirelength = 100.00%
+M3 Accept: cost = 229489.00 penalty = 0.00% area = 85.71% wirelength = 100.00%
+M3 Accept: cost = 229304.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229400.00 penalty = 0.00% area = 85.74% wirelength = 100.00%
+T = 19.88 exp(-delta_cost/T) = 0.02 delta = 79.00
+M3 Accept: cost = 229469.00 penalty = 0.00% area = 85.72% wirelength = 100.00%
+M3 Accept: cost = 229321.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229323.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+T = 19.09 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229334.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229375.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+M3 Accept: cost = 229304.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+T = 18.32 exp(-delta_cost/T) = 0.00 delta = 45458789445398.00
+M3 Accept: cost = 229366.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+M1 Accept: cost = 229312.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229389.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+T = 17.59 exp(-delta_cost/T) = 0.00 delta = 408.00
+M1 Accept: cost = 229364.00 penalty = 0.00% area = 85.76% wirelength = 100.00%
+M3 Accept: cost = 229380.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+M3 Accept: cost = 229326.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229353.00 penalty = 0.00% area = 85.76% wirelength = 100.00%
+T = 16.89 exp(-delta_cost/T) = 0.00 delta = 38571444140410.00
+M3 Accept: cost = 229292.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229375.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+M3 Accept: cost = 229374.00 penalty = 0.00% area = 85.75% wirelength = 100.00%
+M3 Accept: cost = 229295.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229352.00 penalty = 0.00% area = 85.76% wirelength = 100.00%
+M3 Accept: cost = 229355.00 penalty = 0.00% area = 85.76% wirelength = 100.00%
+T = 16.21 exp(-delta_cost/T) = 0.03 delta = 56.00
+Best update !!! M1 cost=229208 penalty = 0.00 area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229208.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+Best update !!! M1 cost=229193 penalty = 0.00 area = 85.82% wirelength = 100.00%
+M3 Accept: cost = 229324.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229410.00 penalty = 0.00% area = 85.74% wirelength = 100.00%
+T = 15.56 exp(-delta_cost/T) = 0.00 delta = 467.00
+M3 Accept: cost = 229276.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229268.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229309.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229338.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+T = 14.94 exp(-delta_cost/T) = 0.00 delta = 886253414321.00
+M3 Accept: cost = 229282.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229312.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+T = 14.34 exp(-delta_cost/T) = 0.00 delta = 173.00
+Best update !!! M1 cost=229189 penalty = 0.00 area = 85.82% wirelength = 100.00%
+M3 Accept: cost = 229275.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+Best update !!! M1 cost=229180 penalty = 0.00 area = 85.82% wirelength = 100.00%
+T = 13.77 exp(-delta_cost/T) = 0.00 delta = 384138895905.00
+M3 Accept: cost = 229263.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229302.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M1 Accept: cost = 229305.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229264.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229212.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 13.22 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229213.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229342.00 penalty = 0.00% area = 85.76% wirelength = 100.00%
+T = 12.69 exp(-delta_cost/T) = 0.01 delta = 57.00
+M3 Accept: cost = 229314.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229233.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229260.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+T = 12.18 exp(-delta_cost/T) = 0.00 delta = 420.00
+M3 Accept: cost = 229303.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229274.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+T = 11.69 exp(-delta_cost/T) = 0.08 delta = 30.00
+M3 Accept: cost = 229352.00 penalty = 0.00% area = 85.76% wirelength = 100.00%
+M3 Accept: cost = 229258.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229246.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 11.23 exp(-delta_cost/T) = 0.00 delta = 68208850.00
+M3 Accept: cost = 229246.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229336.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+M3 Accept: cost = 229249.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 10.78 exp(-delta_cost/T) = 0.00 delta = 12488652651.00
+M3 Accept: cost = 229213.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229286.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229272.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+T = 10.35 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229254.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229335.00 penalty = 0.00% area = 85.77% wirelength = 100.00%
+T = 9.93 exp(-delta_cost/T) = 0.00 delta = 255.00
+M3 Accept: cost = 229246.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 9.54 exp(-delta_cost/T) = 0.00 delta = 59402894484.00
+M3 Accept: cost = 229257.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229243.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229257.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229291.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+M3 Accept: cost = 229245.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 9.15 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229286.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+T = 8.79 exp(-delta_cost/T) = 0.00 delta = 10245867723.00
+M3 Accept: cost = 229275.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229257.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 8.44 exp(-delta_cost/T) = 0.00 delta = 424.00
+M3 Accept: cost = 229275.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+T = 8.10 exp(-delta_cost/T) = 0.00 delta = 384138902908.00
+M3 Accept: cost = 229249.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229247.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M1 Accept: cost = 229233.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229254.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 7.78 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229254.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M2 Accept: cost = 229282.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+T = 7.46 exp(-delta_cost/T) = 0.00 delta = 510041441418.00
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229249.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 7.17 exp(-delta_cost/T) = 0.00 delta = 413774738027.00
+M3 Accept: cost = 229278.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229275.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229254.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 6.88 exp(-delta_cost/T) = 0.00 delta = 5706233244.00
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229285.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+T = 6.60 exp(-delta_cost/T) = 0.00 delta = 938636478795.00
+T = 6.34 exp(-delta_cost/T) = 0.00 delta = 102.00
+M3 Accept: cost = 229266.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229251.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 6.09 exp(-delta_cost/T) = 0.00 delta = 77.00
+M3 Accept: cost = 229284.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229246.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M1 Accept: cost = 229233.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 5.84 exp(-delta_cost/T) = 0.00 delta = 21584995298.00
+M3 Accept: cost = 229255.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229245.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 5.61 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229233.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229263.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229293.00 penalty = 0.00% area = 85.78% wirelength = 100.00%
+T = 5.38 exp(-delta_cost/T) = 0.00 delta = 190214021640.00
+M3 Accept: cost = 229251.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229254.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229252.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229255.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229269.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+T = 5.17 exp(-delta_cost/T) = 0.00 delta = 204.00
+M3 Accept: cost = 229236.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 4.96 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229240.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229243.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229243.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 4.76 exp(-delta_cost/T) = 0.00 delta = 37640483330979.00
+M3 Accept: cost = 229263.00 penalty = 0.00% area = 85.79% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 4.57 exp(-delta_cost/T) = 0.00 delta = 983022756237.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229245.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 4.39 exp(-delta_cost/T) = 0.00 delta = 92690890844.00
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 4.21 exp(-delta_cost/T) = 0.00 delta = 9102.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 4.05 exp(-delta_cost/T) = 0.00 delta = 983022756457.00
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229240.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 3.88 exp(-delta_cost/T) = 0.00 delta = 69813226696.00
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229236.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 3.73 exp(-delta_cost/T) = 0.00 delta = 370.00
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229233.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 3.58 exp(-delta_cost/T) = 0.00 delta = 212.00
+M3 Accept: cost = 229243.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 3.44 exp(-delta_cost/T) = 0.00 delta = 26.00
+M1 Accept: cost = 229238.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229248.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 3.30 exp(-delta_cost/T) = 0.00 delta = 297.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 3.17 exp(-delta_cost/T) = 0.00 delta = 462.00
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 3.04 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229250.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229238.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.92 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229251.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.80 exp(-delta_cost/T) = 0.00 delta = 83.00
+M3 Accept: cost = 229238.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.69 exp(-delta_cost/T) = 0.00 delta = 20.00
+M3 Accept: cost = 229240.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229240.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M1 Accept: cost = 229240.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.58 exp(-delta_cost/T) = 0.00 delta = 1519023318554.00
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229238.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.48 exp(-delta_cost/T) = 0.00 delta = 403.00
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.38 exp(-delta_cost/T) = 0.00 delta = 190214020754.00
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229237.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.28 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.19 exp(-delta_cost/T) = 0.00 delta = 150.00
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229238.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229238.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.11 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 2.02 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.94 exp(-delta_cost/T) = 0.00 delta = 22207641830367.00
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.86 exp(-delta_cost/T) = 0.00 delta = 28516475201.00
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229233.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.79 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.72 exp(-delta_cost/T) = 0.00 delta = 580568941118.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.65 exp(-delta_cost/T) = 0.00 delta = 197.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.58 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229234.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 1.52 exp(-delta_cost/T) = 0.00 delta = 17285467451.00
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.46 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.40 exp(-delta_cost/T) = 0.00 delta = 505436110991.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229233.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.34 exp(-delta_cost/T) = 0.00 delta = 56.00
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229230.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.29 exp(-delta_cost/T) = 0.00 delta = 89546540977.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229235.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 1.24 exp(-delta_cost/T) = 0.00 delta = 413774736700.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.19 exp(-delta_cost/T) = 0.00 delta = 34181622.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.14 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.10 exp(-delta_cost/T) = 0.00 delta = 346.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.05 exp(-delta_cost/T) = 0.00 delta = 384138898944.00
+M3 Accept: cost = 229228.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 1.01 exp(-delta_cost/T) = 0.00 delta = 9249102403.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.97 exp(-delta_cost/T) = 0.00 delta = 114033779264.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.93 exp(-delta_cost/T) = 0.00 delta = 1841728996810.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.89 exp(-delta_cost/T) = 0.00 delta = 395.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.86 exp(-delta_cost/T) = 0.00 delta = 629229354007.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.82 exp(-delta_cost/T) = 0.00 delta = 281.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.79 exp(-delta_cost/T) = 0.00 delta = 92.00
+M3 Accept: cost = 229231.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.76 exp(-delta_cost/T) = 0.00 delta = 123.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.73 exp(-delta_cost/T) = 0.00 delta = 207.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.70 exp(-delta_cost/T) = 0.01 delta = 3.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.67 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.64 exp(-delta_cost/T) = 0.00 delta = 328505420378.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.62 exp(-delta_cost/T) = 0.00 delta = 136819471619.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.59 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229232.00 penalty = 0.00% area = 85.80% wirelength = 100.00%
+T = 0.57 exp(-delta_cost/T) = 0.00 delta = 251753379644.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.55 exp(-delta_cost/T) = 0.00 delta = 938636469571.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.53 exp(-delta_cost/T) = 1.00 delta = 0.00
+T = 0.50 exp(-delta_cost/T) = 0.00 delta = 73.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.48 exp(-delta_cost/T) = 0.00 delta = 4379920343.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.46 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.45 exp(-delta_cost/T) = 0.00 delta = 4379920424.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.43 exp(-delta_cost/T) = 0.00 delta = 62.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.41 exp(-delta_cost/T) = 0.00 delta = 281.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.39 exp(-delta_cost/T) = 0.00 delta = 510041441165.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.38 exp(-delta_cost/T) = 0.00 delta = 1841728996810.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.36 exp(-delta_cost/T) = 0.00 delta = 938636478360.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.35 exp(-delta_cost/T) = 0.00 delta = 254047260540.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.34 exp(-delta_cost/T) = 0.00 delta = 68208924.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.32 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.31 exp(-delta_cost/T) = 0.00 delta = 314.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.30 exp(-delta_cost/T) = 0.00 delta = 233311914676.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.28 exp(-delta_cost/T) = 0.00 delta = 346.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.27 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.26 exp(-delta_cost/T) = 0.00 delta = 9249102403.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.25 exp(-delta_cost/T) = 0.00 delta = 200.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.24 exp(-delta_cost/T) = 0.00 delta = 56302308353.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.23 exp(-delta_cost/T) = 0.00 delta = 20.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.22 exp(-delta_cost/T) = 0.00 delta = 115399881465.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.21 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.21 exp(-delta_cost/T) = 0.00 delta = 21584995077.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.20 exp(-delta_cost/T) = 0.00 delta = 2592314255.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.19 exp(-delta_cost/T) = 0.00 delta = 142.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.18 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.17 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.17 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.16 exp(-delta_cost/T) = 0.00 delta = 294198789178.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.15 exp(-delta_cost/T) = 0.00 delta = 252.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.15 exp(-delta_cost/T) = 0.00 delta = 2018425576616.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.14 exp(-delta_cost/T) = 0.00 delta = 39590346915787.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.14 exp(-delta_cost/T) = 0.00 delta = 787926419.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.13 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.13 exp(-delta_cost/T) = 0.00 delta = 136819476120.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.12 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.12 exp(-delta_cost/T) = 0.00 delta = 458.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.11 exp(-delta_cost/T) = 0.00 delta = 53.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.11 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.10 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.10 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.09 exp(-delta_cost/T) = 0.00 delta = 40.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.09 exp(-delta_cost/T) = 0.00 delta = 20.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.09 exp(-delta_cost/T) = 0.00 delta = 2592314255.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.08 exp(-delta_cost/T) = 0.00 delta = 10705318411.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.08 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.08 exp(-delta_cost/T) = 0.00 delta = 9060262737.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.07 exp(-delta_cost/T) = 0.00 delta = 150.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.07 exp(-delta_cost/T) = 0.00 delta = 40.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.07 exp(-delta_cost/T) = 0.00 delta = 304851794.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.07 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.06 exp(-delta_cost/T) = 0.00 delta = 132.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.06 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.06 exp(-delta_cost/T) = 0.00 delta = 59402895352.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.06 exp(-delta_cost/T) = 0.00 delta = 836137559325.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.05 exp(-delta_cost/T) = 0.00 delta = 49951773228.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.05 exp(-delta_cost/T) = 0.00 delta = 444632513689.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.05 exp(-delta_cost/T) = 0.00 delta = 9060262685.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.05 exp(-delta_cost/T) = 0.00 delta = 370.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.05 exp(-delta_cost/T) = 0.00 delta = 618307834319.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.04 exp(-delta_cost/T) = 0.00 delta = 544643344449.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.04 exp(-delta_cost/T) = 0.00 delta = 208423641508.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.04 exp(-delta_cost/T) = 0.00 delta = 56302308353.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.04 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.04 exp(-delta_cost/T) = 0.00 delta = 34.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.04 exp(-delta_cost/T) = 0.00 delta = 17.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 0.00 delta = 277676906127.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 0.00 delta = 1728209314.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 0.00 delta = 153.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 0.00 delta = 395.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 0.00 delta = 42719025644950.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 0.00 delta = 19.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 0.00 delta = 413774740539.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.03 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 56302308353.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 424.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 240.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 1236523070740.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 92.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 75331539395.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 92.00
+T = 0.02 exp(-delta_cost/T) = 0.00 delta = 212.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 153.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 408.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 657721657885.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 993374807494.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 152.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 142.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 307629216.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 6532633169.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 195.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 307629216.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 208.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 1.00 delta = 0.00
+T = 0.01 exp(-delta_cost/T) = 1.00 delta = 0.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 93.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 36032434181595.00
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+M3 Accept: cost = 229229.00 penalty = 0.00% area = 85.81% wirelength = 100.00%
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 150.00
+T = 0.01 exp(-delta_cost/T) = 0.00 delta = 12602442760.00
+Total delta_cost = 1146442.00 avg delta cost = 278.47
+Final cost = 229180.00 Penalty = 0.00 area = 85.82% wirelength = 100.00%
+The total HPWL = 229180
+Total time used = 591s

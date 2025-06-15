@@ -1,0 +1,9 @@
+Invalid b
+Default b = 173
+Out file = ../output/public012.out
+Initial cost = 274065 Penalty = 0.00% area = 70.48% wirelength =100.00%
+The total HPWL = 274065
+Total time used = 0s
+Final cost = 231047.00 Penalty = 0.00 area = 84.36% wirelength = 100.00%
+The total HPWL = 231047
+Total time used = 596s

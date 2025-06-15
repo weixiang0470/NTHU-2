@@ -1,0 +1,63 @@
+# Project 1 - Dynamic Programming for TSP
+
+## Environment Setup
+Before compiling and running the project, you need to ensure that a C++17-compatible `g++` compiler is available. You can activate `g++` from `devtoolset-9` by running the following command:
+
+```bash
+source scl_source enable devtoolset-9
+```
+## Example Executable
+An example solution, example_proj1, is provided for reference. You can execute it using the following command:
+
+```bash
+./example_proj1 <input> <output>
+```
+For example:
+
+```bash
+./example_proj1 ./testcases/case0.in ./output/case0.out
+```
+
+This will read the input graph from case0.in, solve the TSP using dynamic programming, and write the result to case0.out.
+
+## Compiling and Running the Project
+### Running
+Run the following command to compile and execute your program:
+
+```bash
+./run.sh <studentID_name_proj1>
+```
+
+Replace `<studentID_name_proj1>` with your actual student ID and name, e.g., `111000111_Mark_proj1`.
+
+The script will:
+1. Compile `main.cpp` using `make`, producing an executable named according to your student ID and name.
+2. Run the compiled program on all test cases located in the `testcases/` folder.
+
+## Makefile Usage
+The `Makefile` is used for compiling the project. It is invoked automatically by `run.sh`, but if you want to compile manually, run:
+
+```bash
+make TARGET=<studentID_name_proj1>
+```
+
+where `<studentID_name_proj1>` is your student ID and name.
+
+## Completing Your Assignment
+Please complete your implementation inside `main.cpp`. Your program should:
+- Read the input graph from the `.in` files (`testcases/` folder).
+- Write the ouput results to the `.out` files (`output/` folder).
+- Solve the Traveling Salesman Problem (TSP) using Dynamic Programming.
+- Print the ordering of cities for TSP and total distance.
+
+
+## Submission Instructions
+Please execute the following command:
+
+```bash
+./tar.sh <studentID>
+```
+
+This will generate a compressed file `<studentID>.tar.gz` in the current directory. Please upload this file to **eeclass**.
+
+If you have any questions, please feel free to ask TA.

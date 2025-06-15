@@ -1,0 +1,53 @@
+./judge.sh
+HW3/
+HW3/verifier/
+HW3/verifier/README
+HW3/verifier/verify
+HW3/src/
+HW3/src/backup/
+HW3/src/backup/hw3.cpp
+HW3/src/.nfs0000000002a7a70300002524
+HW3/src/ga.cpp
+HW3/src/bk
+HW3/src/1
+HW3/src/build/
+HW3/src/build/data.o
+HW3/src/build/hw3.o
+HW3/src/README.md
+HW3/src/Makefile
+HW3/src/result.txt
+HW3/src/judge.sh
+HW3/src/datastr.hpp
+HW3/src/datastr.cpp
+HW3/src/.nfs0000000002a7b4e400002518
+HW3/src/hw3.cpp
+HW3/testcase/
+HW3/testcase/public1.txt
+HW3/testcase/public2.txt
+HW3/testcase/public3.txt
+HW3/output/
+HW3/output/public1.out
+HW3/output/public2.out
+HW3/bin/
+HW3/bin/hw3
++------------------------------------------------+
+|                                                |
+|    This script is used for PDA HW3 grading.    |
+|                                                |
++------------------------------------------------+
+host name: ic22
+compiler version: g++ (GCC) 9.3.0
+
+grading on X1136010:
+ checking item          | status
+------------------------|--------
+ correct tar.gz         | yes
+ correct file structure | yes
+ have README            | yes
+ have Makefile          | yes
+ correct make clean     | yes
+ correct make           | yes
+
+  testcase |      ratio | wirelength |    runtime | status
+-----------|------------|------------|------------|--------
+   public2 |        0.1 | 

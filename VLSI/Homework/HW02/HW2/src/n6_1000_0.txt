@@ -1,0 +1,5 @@
+Input valid, time limit = 1000
+Input valid, maxG = 0
+Done parsing. Have 210613 cells
+Before = 953246 Max gain = 291 Get max partialsum done, G = 634022 bestid:62284
+ After = 282331 pass : 1 G=634022

@@ -1,0 +1,25 @@
+Input valid, time limit = 1000
+Input valid, maxG = 0
+Number of threads used: 64
+Done parsing. Have 210613 cells
+Before = 953246 Max gain = 291 Get max partialsum done, G = 634022 bestid:62284
+ After = 282331 pass : 1 G=634022
+Before = 282331 Max gain = 180 Get max partialsum done, G = 43032 bestid:20587
+ After = 235071 pass : 2 G=43032
+Before = 235071 Max gain = 119 Get max partialsum done, G = 17021 bestid:5220
+ After = 217647 pass : 3 G=17021
+Before = 217647 Max gain = 111 Get max partialsum done, G = 4183 bestid:6238
+ After = 213361 pass : 4 G=4183
+Before = 213361 Max gain = 98 Get max partialsum done, G = 1697 bestid:1946
+ After = 211553 pass : 5 G=1697
+Before = 211553 Max gain = 99 Get max partialsum done, G = 691 bestid:2280
+ After = 210862 pass : 6 G=691
+Before = 210862 Max gain = 99 Get max partialsum done, G = 645 bestid:1521
+ After = 210214 pass : 7 G=645
+Before = 210214 Max gain = 65 Get max partialsum done, G = 74 bestid:46
+ After = 210140 pass : 8 G=74
+Before = 210140 Max gain = 1 Get max partialsum done, G = 3 bestid:21
+ After = 210137 pass : 9 G=3
+Before = 210137 Max gain = 65 Get max partialsum done, G = 0 bestid:-1
+
+Total time used = 302 Cut size = 210137

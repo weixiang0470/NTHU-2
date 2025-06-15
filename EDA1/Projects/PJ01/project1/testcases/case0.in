@@ -1,0 +1,12 @@
+# edgeIndex  edgeWeight  nameOfVertexU  nameOfVertexV
+
+e1  1  v1 v2
+e2  4  v1 v5
+e3  5  v2  v5
+e4  2  v1 v6
+e5  3  v6 v5
+e6  2  v6 v4
+e7  6  v6 v3
+e8  1  v3  v4
+e9  5  v5  v3
+e10 8  v4 v2

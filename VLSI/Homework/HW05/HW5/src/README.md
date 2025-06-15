@@ -1,0 +1,7 @@
+- `make grade`
+    - To grade with the HW5_grading
+- Under folder `HW5/src`
+    - `make` : compile and link all needed files
+    - `make clean` : remove all compiled files, e.g. `*.o`, executable file
+    - Use the command to execute the program : `$ ./hw5 *.txt *.out`
+        - e.g. : `$ ./hw5 ../testcase/public1.txt ../testcase/public1.out`

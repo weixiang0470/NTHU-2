@@ -1,0 +1,47 @@
+Input valid, time limit = 1000
+Input valid, maxG = 0
+Number of threads used: 64
+Done parsing. Have 185495 cells
+Before = 1085707 Max gain = 557 Get max partialsum done, G = 605363 bestid:74081
+ After = 439947 pass : 1 G=605363
+Before = 439947 Max gain = 336 Get max partialsum done, G = 45107 bestid:23325
+ After = 385555 pass : 2 G=45107
+Before = 385555 Max gain = 298 Get max partialsum done, G = 29834 bestid:15954
+ After = 352268 pass : 3 G=29834
+Before = 352268 Max gain = 294 Get max partialsum done, G = 10616 bestid:12278
+ After = 339850 pass : 4 G=10616
+Before = 339850 Max gain = 298 Get max partialsum done, G = 5221 bestid:10651
+ After = 334383 pass : 5 G=5221
+Before = 334383 Max gain = 297 Get max partialsum done, G = 2238 bestid:9544
+ After = 332093 pass : 6 G=2238
+Before = 332093 Max gain = 273 Get max partialsum done, G = 1809 bestid:9144
+ After = 330260 pass : 7 G=1809
+Before = 330260 Max gain = 216 Get max partialsum done, G = 805 bestid:8734
+ After = 329161 pass : 8 G=805
+Before = 329161 Max gain = 213 Get max partialsum done, G = 662 bestid:8537
+ After = 328372 pass : 9 G=662
+Before = 328372 Max gain = 247 Get max partialsum done, G = 510 bestid:5953
+ After = 327855 pass : 10 G=510
+Before = 327855 Max gain = 138 Get max partialsum done, G = 337 bestid:8286
+ After = 327514 pass : 11 G=337
+Before = 327514 Max gain = 142 Get max partialsum done, G = 193 bestid:8242
+ After = 326992 pass : 12 G=193
+Before = 326992 Max gain = 92 Get max partialsum done, G = 123 bestid:8064
+ After = 326865 pass : 13 G=123
+Before = 326865 Max gain = 22 Get max partialsum done, G = 106 bestid:6950
+ After = 326754 pass : 14 G=106
+Before = 326754 Max gain = 248 Get max partialsum done, G = 261 bestid:7081
+ After = 326491 pass : 15 G=261
+Before = 326491 Max gain = 0 Get max partialsum done, G = 5 bestid:8117
+ After = 326486 pass : 16 G=5
+Before = 326486 Max gain = 0 Get max partialsum done, G = 1 bestid:6802
+ After = 326484 pass : 17 G=1
+Before = 326484 Max gain = 256 Get max partialsum done, G = 262 bestid:8105
+ After = 326222 pass : 18 G=262
+Before = 326222 Max gain = 168 Get max partialsum done, G = 174 bestid:10
+ After = 326048 pass : 19 G=174
+Before = 326048 Max gain = 1 Get max partialsum done, G = 1 bestid:3
+ After = 326047 pass : 20 G=1
+Before = 326047 Max gain = 0 Get max partialsum done, G = 0 bestid:-1
+
+Total time used = 347 Cut size = 326047
