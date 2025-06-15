@@ -23,8 +23,8 @@ app = Flask(__name__, static_folder='static')
 # line_bot_api = LineBotApi("e8/fJt3I/LlN+rXOEEpNvHRlGZzodfKrH/EZDVrkccE0Mhn/1AdyeuVDQ2l1E35945Tn+diI+YShPwU7NXFB2ArgPEtv400gjIYjiIrzSSdEElpCXmjWt5l2xVtHCp6V9Uq9MbPC/bBNvFlJk3BRTAdB04t89/1O/w1cDnyilFU=")
 # handler = WebhookHandler("0e8d8c8c4bf39c7b08d0d395e025f82c")
 # 沈
-line_bot_api = LineBotApi("O+Sevsc7QxILyCjeoroEuEgZiZCKjPiBntk50y3XKpqaBa6RkJ0b+YGB8aOJCIyI0vLg4l75riklnbQoD//XiBQUvFKZjlT86dW0C46uJwMO7knpL3OOnRGHsuWNNLyvYUWnWpKebfBVoLmDa/5GowdB04t89/1O/w1cDnyilFU=")
-handler = WebhookHandler("b8bea39f85ea857a4bbdb9dcaa3be3ef")
+line_bot_api = LineBotApi("LINEBOT_API")
+handler = WebhookHandler("WEB_HOOK_HANDLER")
 
 
 USER_Floor = {}

@@ -9,7 +9,7 @@ import yaml
 
 
 
-client = genai.Client(api_key='AIzaSyCG5miVoShP7khW1StejgGdkMqi0V37AF0')
+client = genai.Client(api_key='GOOGLE_API')
 
 def generate_gemini_sustainable_prompt(
     theme: str,
